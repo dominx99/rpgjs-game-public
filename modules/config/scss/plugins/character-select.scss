@@ -1,0 +1,100 @@
+$character-select-screen-background: url('@/modules/config/assets/backgrounds/character-select.png');
+$character-select-arrow-left-image: url('@/modules/config/assets/gui/shared/left_arrow_n.png');
+$character-select-arrow-right-image: url('@/modules/config/assets/gui/shared/right_arrow_n.png');
+
+.character-select {
+  &__class-name {
+    color: $primary;
+  }
+
+  &__arrow-left {
+    width: 75px;
+    height: 75px;
+
+    &:hover {
+      background: url('@/modules/config/assets/gui/shared/left_arrow_h.png');
+      background-size: 100% 100%;
+      filter: brightness(1);
+    }
+  }
+
+  &__arrow-right {
+    width: 75px;
+    height: 75px;
+
+    &:hover {
+      background: url('@/modules/config/assets/gui/shared/right_arrow_h.png');
+      background-size: 100% 100%;
+      filter: brightness(1);
+    }
+  }
+
+  &__submit-button {
+    width: 200px;
+    height: 75px;
+    font-weight: normal;
+    @extend .btn;
+
+    &:hover {
+      box-shadow: none;
+    }
+  }
+
+  &__description-content {
+    padding: 1rem;
+    background: linear-gradient(180deg, rgba(179, 117, 73, .75) 0%, rgba(88, 51, 38, .75) 100%);
+    background-size: 100% 100%;
+    color: $text-color-light;
+    border-radius: 3px;
+    overflow: auto;
+
+    &:before {
+        content: '';
+        position: absolute;
+        top: 0;
+        left: 0;
+        background: url('@/modules/config/assets/gui/boxes/news_top_ornament.png');
+        background-size: 100% 100%;
+        width: 100%;
+        height: 35px;
+        margin-top: -32px;
+        filter: brightness(1.5);
+    }
+
+    &:after {
+      content: '';
+      position: absolute;
+      bottom: 0;
+      left: 50%;
+      transform: translateX(-50%);
+      background: url('@/modules/config/assets/gui/boxes/news_bottom.png');
+      background-size: 100% 100%;
+      width: 50%;
+      height: 35px;
+      margin-bottom: -32px;
+      filter: brightness(1.5);
+    }
+
+    &::-webkit-scrollbar-track {
+      background: url('@/modules/config/assets/gui/boxes/news_content_slider_rail.png');
+      background-size: 100% 100%;
+      width: 7px;
+    }
+
+    &::-webkit-scrollbar {
+      background: url('@/modules/config/assets/gui/boxes/news_content_slider_rail.png');
+      background-size: 100% 100%;
+      width: 7px;
+    }
+
+    &::-webkit-scrollbar-thumb {
+      background: url('@/modules/config/assets/gui/boxes/news_slide_n.png');
+      background-size: 100% 100%;
+
+      &:hover {
+          background: url('@/modules/config/assets/gui/boxes/news_slide_h.png');
+          background-size: 100% 100%;
+      }
+    }
+  }
+}

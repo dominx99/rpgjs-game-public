@@ -1,0 +1,8 @@
+@import './normalize.scss';
+@import './variables.scss';
+@import './utils/main.scss';
+@import './plugins/main.scss';
+
+.v-popper__popper {
+  z-index: 100;
+}

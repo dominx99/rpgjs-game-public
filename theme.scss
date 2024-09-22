@@ -1,0 +1,14 @@
+@import 'modules/config/scss/main.scss';
+
+@font-face {
+  font-family: 'Nunito';
+  src: url('@/modules/config/fonts/nunito/Nunito-Regular.ttf');
+}
+
+body {
+  font-family: 'Nunito';
+  font-size: 16px;
+}
+
+@mixin window-content {
+}

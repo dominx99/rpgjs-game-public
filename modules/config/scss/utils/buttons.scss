@@ -1,0 +1,17 @@
+.btn {
+  background: url('@/modules/config/assets/gui/buttons/mediumblue_n.png');
+  background-size: cover;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  width: 160px;
+  height: 55px;
+
+  color: white;
+  border: none;
+  cursor: pointer;
+
+  &:hover {
+    background: url('@/modules/config/assets/gui/buttons/mediumblue_h.png');
+    background-size: 100% 100%;
+  }
+}

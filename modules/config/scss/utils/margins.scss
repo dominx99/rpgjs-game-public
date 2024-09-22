@@ -1,0 +1,29 @@
+$max: 8;
+$offset: .25;
+$unit: 'rem';
+
+@mixin list-loop($className, $styleName) {
+  $value: 0;
+  $nameKey: 1;
+  @while $nameKey <= $max {
+    #{$className + $nameKey} {
+      #{$styleName}: #{$value + $unit};
+    }
+    $value: $value + $offset;
+    $nameKey: $nameKey + 1;
+  }
+}
+
+// Margins
+@include list-loop('.mt-', 'margin-top');
+@include list-loop('.mr-', 'margin-right');
+@include list-loop('.mb-', 'margin-bottom');
+@include list-loop('.ml-', 'margin-left');
+@include list-loop('.mx-', 'margin');
+
+// Paddings
+@include list-loop('.pt-', 'padding-top');
+@include list-loop('.pr-', 'padding-right');
+@include list-loop('.pb-', 'padding-bottom');
+@include list-loop('.pl-', 'padding-left');
+@include list-loop('.px-', 'padding');

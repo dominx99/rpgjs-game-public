@@ -1,0 +1,2684 @@
+{
+  "files": {
+    "modules/actions/client/index.ts:6:1-6:18": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/ban-ts-comment",
+          "message": "Use \"@ts-expect-error\" instead of \"@ts-ignore\", as \"@ts-ignore\" will do nothing if the following line is error-free.",
+          "severity": 2,
+          "hash": "d62a3f462fd4a05023bd601dd9a6a20cc08b7da8407293cec6586506dc0f90c6"
+        }
+      ]
+    },
+    "modules/actions/client/index.ts:11:45-11:48": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/no-explicit-any",
+          "message": "Unexpected any. Specify a different type.",
+          "severity": 2,
+          "hash": "d6a7cd2a7371b1a15d543196979ff74fdb027023ebf187d5d329be11055c77fd"
+        }
+      ]
+    },
+    "modules/actions/client/index.ts:18:50-18:53": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/no-explicit-any",
+          "message": "Unexpected any. Specify a different type.",
+          "severity": 2,
+          "hash": "d6a7cd2a7371b1a15d543196979ff74fdb027023ebf187d5d329be11055c77fd"
+        }
+      ]
+    },
+    "modules/actions/client/index.ts:19:36-19:39": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/no-explicit-any",
+          "message": "Unexpected any. Specify a different type.",
+          "severity": 2,
+          "hash": "d6a7cd2a7371b1a15d543196979ff74fdb027023ebf187d5d329be11055c77fd"
+        }
+      ]
+    },
+    "modules/actions/index.ts:1:1-1:18": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/ban-ts-comment",
+          "message": "Use \"@ts-expect-error\" instead of \"@ts-ignore\", as \"@ts-ignore\" will do nothing if the following line is error-free.",
+          "severity": 2,
+          "hash": "d62a3f462fd4a05023bd601dd9a6a20cc08b7da8407293cec6586506dc0f90c6"
+        }
+      ]
+    },
+    "modules/actions/index.ts:3:1-3:18": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/ban-ts-comment",
+          "message": "Use \"@ts-expect-error\" instead of \"@ts-ignore\", as \"@ts-ignore\" will do nothing if the following line is error-free.",
+          "severity": 2,
+          "hash": "d62a3f462fd4a05023bd601dd9a6a20cc08b7da8407293cec6586506dc0f90c6"
+        }
+      ]
+    },
+    "modules/actions/server/__test__/actions.spec.ts:3:55-3:59": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/no-unused-vars",
+          "message": "'test' is defined but never used.",
+          "severity": 2,
+          "hash": "9f86d081884c7d659a2feaa0c55ad015a3bf4f1b2b0b822cd15d6c15b0f00a08"
+        }
+      ]
+    },
+    "modules/actions/server/__test__/actions.spec.ts:17:1-17:18": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/ban-ts-comment",
+          "message": "Use \"@ts-expect-error\" instead of \"@ts-ignore\", as \"@ts-ignore\" will do nothing if the following line is error-free.",
+          "severity": 2,
+          "hash": "d62a3f462fd4a05023bd601dd9a6a20cc08b7da8407293cec6586506dc0f90c6"
+        }
+      ]
+    },
+    "modules/actions/server/__test__/actions.spec.ts:29:1-29:18": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/ban-ts-comment",
+          "message": "Use \"@ts-expect-error\" instead of \"@ts-ignore\", as \"@ts-ignore\" will do nothing if the following line is error-free.",
+          "severity": 2,
+          "hash": "d62a3f462fd4a05023bd601dd9a6a20cc08b7da8407293cec6586506dc0f90c6"
+        }
+      ]
+    },
+    "modules/actions/server/index.ts:4:1-4:18": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/ban-ts-comment",
+          "message": "Use \"@ts-expect-error\" instead of \"@ts-ignore\", as \"@ts-ignore\" will do nothing if the following line is error-free.",
+          "severity": 2,
+          "hash": "d62a3f462fd4a05023bd601dd9a6a20cc08b7da8407293cec6586506dc0f90c6"
+        }
+      ]
+    },
+    "modules/actions/server/src/ActionInteractionHooks.ts:23:45-23:48": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/no-explicit-any",
+          "message": "Unexpected any. Specify a different type.",
+          "severity": 2,
+          "hash": "d6a7cd2a7371b1a15d543196979ff74fdb027023ebf187d5d329be11055c77fd"
+        }
+      ]
+    },
+    "modules/actions/server/src/ActionManager.ts:10:16-10:19": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/no-explicit-any",
+          "message": "Unexpected any. Specify a different type.",
+          "severity": 2,
+          "hash": "d6a7cd2a7371b1a15d543196979ff74fdb027023ebf187d5d329be11055c77fd"
+        }
+      ]
+    },
+    "modules/actions/server/src/ActionManager.ts:28:18-28:31": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/no-unsafe-declaration-merging",
+          "message": "Unsafe declaration merging between classes and interfaces.",
+          "severity": 2,
+          "hash": "33b3d97a8e88a6985a27797ee2e6f26b76b9d321a6f2286684f26c05b1e67f24"
+        }
+      ]
+    },
+    "modules/actions/server/src/ActionManager.ts:29:22-29:25": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/no-explicit-any",
+          "message": "Unexpected any. Specify a different type.",
+          "severity": 2,
+          "hash": "d6a7cd2a7371b1a15d543196979ff74fdb027023ebf187d5d329be11055c77fd"
+        }
+      ]
+    },
+    "modules/actions/server/src/ActionManager.ts:29:28-29:31": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/no-explicit-any",
+          "message": "Unexpected any. Specify a different type.",
+          "severity": 2,
+          "hash": "d6a7cd2a7371b1a15d543196979ff74fdb027023ebf187d5d329be11055c77fd"
+        }
+      ]
+    },
+    "modules/actions/server/src/ActionManager.ts:33:14-33:27": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/no-unsafe-declaration-merging",
+          "message": "Unsafe declaration merging between classes and interfaces.",
+          "severity": 2,
+          "hash": "33b3d97a8e88a6985a27797ee2e6f26b76b9d321a6f2286684f26c05b1e67f24"
+        }
+      ]
+    },
+    "modules/character-select-extension/gui/CharacterSelectGUI.styles.ts:18:25-18:42": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/no-unused-vars",
+          "message": "'ButtonHoverStyles' is defined but never used.",
+          "severity": 2,
+          "hash": "5cf5387ed106edcbf697560ab418778c2829fb5d00b860f55d5fbb137dee392f"
+        }
+      ]
+    },
+    "modules/character-select-extension/gui/CharacterSelectGUI.styles.ts:20:8-20:24": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/no-unused-vars",
+          "message": "'buttonHoveredImg' is defined but never used.",
+          "severity": 2,
+          "hash": "7cf1f7632813556bf8075af2ad1e40365f834e0d4ce6103633e12490515009ef"
+        }
+      ]
+    },
+    "modules/chat/client/index.ts:5:1-5:18": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/ban-ts-comment",
+          "message": "Use \"@ts-expect-error\" instead of \"@ts-ignore\", as \"@ts-ignore\" will do nothing if the following line is error-free.",
+          "severity": 2,
+          "hash": "d62a3f462fd4a05023bd601dd9a6a20cc08b7da8407293cec6586506dc0f90c6"
+        }
+      ]
+    },
+    "modules/chat/index.ts:1:1-1:18": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/ban-ts-comment",
+          "message": "Use \"@ts-expect-error\" instead of \"@ts-ignore\", as \"@ts-ignore\" will do nothing if the following line is error-free.",
+          "severity": 2,
+          "hash": "d62a3f462fd4a05023bd601dd9a6a20cc08b7da8407293cec6586506dc0f90c6"
+        }
+      ]
+    },
+    "modules/chat/mmorpg.ts:1:1-1:18": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/ban-ts-comment",
+          "message": "Use \"@ts-expect-error\" instead of \"@ts-ignore\", as \"@ts-ignore\" will do nothing if the following line is error-free.",
+          "severity": 2,
+          "hash": "d62a3f462fd4a05023bd601dd9a6a20cc08b7da8407293cec6586506dc0f90c6"
+        }
+      ]
+    },
+    "modules/chat/mmorpg.ts:3:1-3:18": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/ban-ts-comment",
+          "message": "Use \"@ts-expect-error\" instead of \"@ts-ignore\", as \"@ts-ignore\" will do nothing if the following line is error-free.",
+          "severity": 2,
+          "hash": "d62a3f462fd4a05023bd601dd9a6a20cc08b7da8407293cec6586506dc0f90c6"
+        }
+      ]
+    },
+    "modules/chat/server/index.ts:4:1-4:18": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/ban-ts-comment",
+          "message": "Use \"@ts-expect-error\" instead of \"@ts-ignore\", as \"@ts-ignore\" will do nothing if the following line is error-free.",
+          "severity": 2,
+          "hash": "d62a3f462fd4a05023bd601dd9a6a20cc08b7da8407293cec6586506dc0f90c6"
+        }
+      ]
+    },
+    "modules/chat/server/interaction/ChatInteractionHooks.ts:6:10-6:15": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/no-unused-vars",
+          "message": "'isNil' is defined but never used.",
+          "severity": 2,
+          "hash": "488ac22ed088955c2079d7d57e286db0f3b7725be42aed6bb1c16efce08c6453"
+        }
+      ]
+    },
+    "modules/common/server/src/managers/ParameterManager.ts:1:18-1:34": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/no-unsafe-declaration-merging",
+          "message": "Unsafe declaration merging between classes and interfaces.",
+          "severity": 2,
+          "hash": "91e5b93f3a8d0e388700fc52dbc15c97f192568b4ea84827aae63f5394db64c1"
+        }
+      ]
+    },
+    "modules/common/server/src/managers/ParameterManager.ts:11:14-11:30": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/no-unsafe-declaration-merging",
+          "message": "Unsafe declaration merging between classes and interfaces.",
+          "severity": 2,
+          "hash": "91e5b93f3a8d0e388700fc52dbc15c97f192568b4ea84827aae63f5394db64c1"
+        }
+      ]
+    },
+    "modules/cooldowns/src/CooldownManager.ts:13:18-13:33": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/no-unsafe-declaration-merging",
+          "message": "Unsafe declaration merging between classes and interfaces.",
+          "severity": 2,
+          "hash": "d9f816e4ee443616ffdfd728e9abc1d61d35823b8e53fc55baffdab30f95dbc1"
+        }
+      ]
+    },
+    "modules/cooldowns/src/CooldownManager.ts:20:14-20:29": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/no-unsafe-declaration-merging",
+          "message": "Unsafe declaration merging between classes and interfaces.",
+          "severity": 2,
+          "hash": "d9f816e4ee443616ffdfd728e9abc1d61d35823b8e53fc55baffdab30f95dbc1"
+        }
+      ]
+    },
+    "modules/cooldowns/src/interfaces/ActionCooldown.ts:1:11-1:25": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/no-unused-vars",
+          "message": "'ActionCooldown' is defined but never used.",
+          "severity": 2,
+          "hash": "ff490222499f21d3959e05c18370fd53e7ff4a0921eb86e13e602a4035264ccd"
+        }
+      ]
+    },
+    "modules/dummy-auth/index.ts:1:1-1:18": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/ban-ts-comment",
+          "message": "Use \"@ts-expect-error\" instead of \"@ts-ignore\", as \"@ts-ignore\" will do nothing if the following line is error-free.",
+          "severity": 2,
+          "hash": "d62a3f462fd4a05023bd601dd9a6a20cc08b7da8407293cec6586506dc0f90c6"
+        }
+      ]
+    },
+    "modules/dummy-auth/server/index.ts:5:1-5:18": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/ban-ts-comment",
+          "message": "Use \"@ts-expect-error\" instead of \"@ts-ignore\", as \"@ts-ignore\" will do nothing if the following line is error-free.",
+          "severity": 2,
+          "hash": "d62a3f462fd4a05023bd601dd9a6a20cc08b7da8407293cec6586506dc0f90c6"
+        }
+      ]
+    },
+    "modules/dummy-auth/server/index.ts:11:17-11:40": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/no-unused-vars",
+          "message": "'engine' is defined but never used.",
+          "severity": 2,
+          "hash": "0c5e9eb2a2f0cfa849736eb5a0148e545f46b79add6b2f848e357ab9dcb89e7f"
+        }
+      ]
+    },
+    "modules/effects/client/sprite.ts:6:43-6:46": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/no-explicit-any",
+          "message": "Unexpected any. Specify a different type.",
+          "severity": 2,
+          "hash": "d6a7cd2a7371b1a15d543196979ff74fdb027023ebf187d5d329be11055c77fd"
+        }
+      ]
+    },
+    "modules/effects/server/src/decorators/State.ts:13:30-13:33": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/no-explicit-any",
+          "message": "Unexpected any. Specify a different type.",
+          "severity": 2,
+          "hash": "d6a7cd2a7371b1a15d543196979ff74fdb027023ebf187d5d329be11055c77fd"
+        }
+      ]
+    },
+    "modules/effects/server/src/managers/SpeedManager.ts:10:18-10:30": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/no-unsafe-declaration-merging",
+          "message": "Unsafe declaration merging between classes and interfaces.",
+          "severity": 2,
+          "hash": "f4619353014fb45b33266f8ee7d9c40c1aae7286001edede6740400556ca389f"
+        }
+      ]
+    },
+    "modules/effects/server/src/managers/SpeedManager.ts:15:14-15:26": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/no-unsafe-declaration-merging",
+          "message": "Unsafe declaration merging between classes and interfaces.",
+          "severity": 2,
+          "hash": "f4619353014fb45b33266f8ee7d9c40c1aae7286001edede6740400556ca389f"
+        }
+      ]
+    },
+    "modules/effects/server/src/managers/StateWithDurationManager.ts:1:34-1:37": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/no-explicit-any",
+          "message": "Unexpected any. Specify a different type.",
+          "severity": 2,
+          "hash": "d6a7cd2a7371b1a15d543196979ff74fdb027023ebf187d5d329be11055c77fd"
+        }
+      ]
+    },
+    "modules/effects/server/src/managers/StateWithDurationManager.ts:3:18-3:42": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/no-unsafe-declaration-merging",
+          "message": "Unsafe declaration merging between classes and interfaces.",
+          "severity": 2,
+          "hash": "568f744929446a9e64aae1085d998766dfe65f88ce288124d68887322d727a82"
+        }
+      ]
+    },
+    "modules/effects/server/src/managers/StateWithDurationManager.ts:6:48-6:51": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/no-explicit-any",
+          "message": "Unexpected any. Specify a different type.",
+          "severity": 2,
+          "hash": "d6a7cd2a7371b1a15d543196979ff74fdb027023ebf187d5d329be11055c77fd"
+        }
+      ]
+    },
+    "modules/effects/server/src/managers/StateWithDurationManager.ts:15:14-15:38": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/no-unsafe-declaration-merging",
+          "message": "Unsafe declaration merging between classes and interfaces.",
+          "severity": 2,
+          "hash": "568f744929446a9e64aae1085d998766dfe65f88ce288124d68887322d727a82"
+        }
+      ]
+    },
+    "modules/effects/server/src/managers/StateWithDurationManager.ts:41:34-41:37": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/no-explicit-any",
+          "message": "Unexpected any. Specify a different type.",
+          "severity": 2,
+          "hash": "d6a7cd2a7371b1a15d543196979ff74fdb027023ebf187d5d329be11055c77fd"
+        }
+      ]
+    },
+    "modules/enemies/events/bullets/MovingBallBullet.ts:3:1-3:14": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/ban-ts-comment",
+          "message": "Use \"@ts-expect-error\" instead of \"@ts-ignore\", as \"@ts-ignore\" will do nothing if the following line is error-free.",
+          "severity": 2,
+          "hash": "2fcfdd2ef03f056a2a34212f08ccfb4f05074990e8fd22f3a524a433cb3b0aa8"
+        }
+      ]
+    },
+    "modules/enemies/events/bullets/MovingGreenFireBullet.ts:3:1-3:14": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/ban-ts-comment",
+          "message": "Use \"@ts-expect-error\" instead of \"@ts-ignore\", as \"@ts-ignore\" will do nothing if the following line is error-free.",
+          "severity": 2,
+          "hash": "2fcfdd2ef03f056a2a34212f08ccfb4f05074990e8fd22f3a524a433cb3b0aa8"
+        }
+      ]
+    },
+    "modules/enemies/events/mobs/DesertGolem.ts:9:1-9:14": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/ban-ts-comment",
+          "message": "Use \"@ts-expect-error\" instead of \"@ts-ignore\", as \"@ts-ignore\" will do nothing if the following line is error-free.",
+          "severity": 2,
+          "hash": "2fcfdd2ef03f056a2a34212f08ccfb4f05074990e8fd22f3a524a433cb3b0aa8"
+        }
+      ]
+    },
+    "modules/enemies/events/mobs/FlyingEye.ts:11:1-11:14": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/ban-ts-comment",
+          "message": "Use \"@ts-expect-error\" instead of \"@ts-ignore\", as \"@ts-ignore\" will do nothing if the following line is error-free.",
+          "severity": 2,
+          "hash": "2fcfdd2ef03f056a2a34212f08ccfb4f05074990e8fd22f3a524a433cb3b0aa8"
+        }
+      ]
+    },
+    "modules/enemies/events/mobs/PurpleMagician.ts:10:1-10:14": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/ban-ts-comment",
+          "message": "Use \"@ts-expect-error\" instead of \"@ts-ignore\", as \"@ts-ignore\" will do nothing if the following line is error-free.",
+          "severity": 2,
+          "hash": "2fcfdd2ef03f056a2a34212f08ccfb4f05074990e8fd22f3a524a433cb3b0aa8"
+        }
+      ]
+    },
+    "modules/enemies/events/mobs/WhiteRabbitMobs.ts:10:1-10:14": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/ban-ts-comment",
+          "message": "Use \"@ts-expect-error\" instead of \"@ts-ignore\", as \"@ts-ignore\" will do nothing if the following line is error-free.",
+          "severity": 2,
+          "hash": "2fcfdd2ef03f056a2a34212f08ccfb4f05074990e8fd22f3a524a433cb3b0aa8"
+        }
+      ]
+    },
+    "modules/enemies/events/mobs/Zombie.ts:10:1-10:14": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/ban-ts-comment",
+          "message": "Use \"@ts-expect-error\" instead of \"@ts-ignore\", as \"@ts-ignore\" will do nothing if the following line is error-free.",
+          "severity": 2,
+          "hash": "2fcfdd2ef03f056a2a34212f08ccfb4f05074990e8fd22f3a524a433cb3b0aa8"
+        }
+      ]
+    },
+    "modules/enemies/src/attack/MobAttackManager.ts:7:18-7:34": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/no-unsafe-declaration-merging",
+          "message": "Unsafe declaration merging between classes and interfaces.",
+          "severity": 2,
+          "hash": "d72f29785dce3415fe619caf89c6132e624f3127f187b2e0f3661583e2958c5a"
+        }
+      ]
+    },
+    "modules/enemies/src/attack/MobAttackManager.ts:11:14-11:30": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/no-unsafe-declaration-merging",
+          "message": "Unsafe declaration merging between classes and interfaces.",
+          "severity": 2,
+          "hash": "d72f29785dce3415fe619caf89c6132e624f3127f187b2e0f3661583e2958c5a"
+        }
+      ]
+    },
+    "modules/enemies/src/follow/FollowManager.ts:6:33-6:36": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/no-explicit-any",
+          "message": "Unexpected any. Specify a different type.",
+          "severity": 2,
+          "hash": "d6a7cd2a7371b1a15d543196979ff74fdb027023ebf187d5d329be11055c77fd"
+        }
+      ]
+    },
+    "modules/enemies/src/follow/FollowManager.ts:6:66-6:74": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/ban-types",
+          "message": "Don't use `Function` as a type. The `Function` type accepts any function-like value.\nIt provides no type safety when calling the function, which can be a common source of bugs.\nIt also accepts things like class declarations, which will throw at runtime as they will not be called with `new`.\nIf you are expecting the function to accept certain arguments, you should explicitly define the function shape.",
+          "severity": 2,
+          "hash": "c803710302d5769d8fcd51958c516ff27f2a3c5ad9373c348d1d180c04a74624"
+        }
+      ]
+    },
+    "modules/enemies/src/follow/FollowManager.ts:8:18-8:31": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/no-unsafe-declaration-merging",
+          "message": "Unsafe declaration merging between classes and interfaces.",
+          "severity": 2,
+          "hash": "edbec605f20c67eebd11487d5399547bae7c1e4a0ac6a14f755b83b02b89b85d"
+        }
+      ]
+    },
+    "modules/enemies/src/follow/FollowManager.ts:16:14-16:27": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/no-unsafe-declaration-merging",
+          "message": "Unsafe declaration merging between classes and interfaces.",
+          "severity": 2,
+          "hash": "edbec605f20c67eebd11487d5399547bae7c1e4a0ac6a14f755b83b02b89b85d"
+        }
+      ]
+    },
+    "modules/enemies/src/speed-up/SpeedUpMobManager.ts:1:18-1:35": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/no-unsafe-declaration-merging",
+          "message": "Unsafe declaration merging between classes and interfaces.",
+          "severity": 2,
+          "hash": "8e71f7b31b0a5adf02ceb44e889dbbb51fd936f08014725003a3cf047b2a9fa5"
+        }
+      ]
+    },
+    "modules/enemies/src/speed-up/SpeedUpMobManager.ts:7:14-7:31": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/no-unsafe-declaration-merging",
+          "message": "Unsafe declaration merging between classes and interfaces.",
+          "severity": 2,
+          "hash": "8e71f7b31b0a5adf02ceb44e889dbbb51fd936f08014725003a3cf047b2a9fa5"
+        }
+      ]
+    },
+    "modules/gui/client/components/action-bar/Action.tsx:47:44-47:47": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/no-explicit-any",
+          "message": "Unexpected any. Specify a different type.",
+          "severity": 2,
+          "hash": "d6a7cd2a7371b1a15d543196979ff74fdb027023ebf187d5d329be11055c77fd"
+        }
+      ]
+    },
+    "modules/gui/client/components/action-bar/Action.tsx:82:19-82:26": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/no-unused-vars",
+          "message": "'monitor' is defined but never used.",
+          "severity": 2,
+          "hash": "7de97367c9cdc3c6db31aa114057b65cea1a7bafc71cf0595a2931011526a0a3"
+        }
+      ]
+    },
+    "modules/gui/client/components/action-bar/DraggableActionLayer.tsx:26:11-26:12": {
+      "errors": [
+        {
+          "ruleId": "prefer-const",
+          "message": "'x' is never reassigned. Use 'const' instead.",
+          "severity": 2,
+          "hash": "2d711642b726b04401627ca9fbac32f5c8530fb1903cc4db02258717921a4881"
+        }
+      ]
+    },
+    "modules/gui/client/components/action-bar/DraggableActionLayer.tsx:26:14-26:15": {
+      "errors": [
+        {
+          "ruleId": "prefer-const",
+          "message": "'y' is never reassigned. Use 'const' instead.",
+          "severity": 2,
+          "hash": "a1fce4363854ff888cff4b8e7875d600c2682390412a8cf79b37d0b11148b0fa"
+        }
+      ]
+    },
+    "modules/gui/client/components/chat/Chat.tsx:27:5-27:18": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/ban-ts-comment",
+          "message": "Use \"@ts-expect-error\" instead of \"@ts-ignore\", as \"@ts-ignore\" will do nothing if the following line is error-free.",
+          "severity": 2,
+          "hash": "2fcfdd2ef03f056a2a34212f08ccfb4f05074990e8fd22f3a524a433cb3b0aa8"
+        }
+      ]
+    },
+    "modules/gui/client/components/chat/Chat.tsx:150:31-150:45": {
+      "errors": [
+        {
+          "ruleId": "no-prototype-builtins",
+          "message": "Do not access Object.prototype method 'hasOwnProperty' from target object.",
+          "severity": 2,
+          "hash": "f603d66e473466ac5e35c18822083820cd4564deb3a85ce9da9ad5ba4560efd8"
+        }
+      ]
+    },
+    "modules/gui/client/components/inventory/DraggableItemLayer.tsx:1:25-1:27": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/no-unused-vars",
+          "message": "'FC' is defined but never used.",
+          "severity": 2,
+          "hash": "b4777ccc172fb07e66e76582fcbae01af9154cbdc596c1f66aeae210c9f5b3a9"
+        }
+      ]
+    },
+    "modules/gui/client/components/inventory/DraggableItemLayer.tsx:25:11-25:12": {
+      "errors": [
+        {
+          "ruleId": "prefer-const",
+          "message": "'x' is never reassigned. Use 'const' instead.",
+          "severity": 2,
+          "hash": "2d711642b726b04401627ca9fbac32f5c8530fb1903cc4db02258717921a4881"
+        }
+      ]
+    },
+    "modules/gui/client/components/inventory/DraggableItemLayer.tsx:25:14-25:15": {
+      "errors": [
+        {
+          "ruleId": "prefer-const",
+          "message": "'y' is never reassigned. Use 'const' instead.",
+          "severity": 2,
+          "hash": "a1fce4363854ff888cff4b8e7875d600c2682390412a8cf79b37d0b11148b0fa"
+        }
+      ]
+    },
+    "modules/gui/client/components/inventory/DraggableItemWithPreview.tsx:14:10-14:18": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/no-unused-vars",
+          "message": "'useTheme' is defined but never used.",
+          "severity": 2,
+          "hash": "324752bbff8012ed00ac9eeab5addd2d0b1c4e470ff263ff65c7b000e8c1ddf8"
+        }
+      ]
+    },
+    "modules/gui/client/components/inventory/EquipmentSlot.tsx:1:10-1:20": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/no-unused-vars",
+          "message": "'ItemEntity' is defined but never used.",
+          "severity": 2,
+          "hash": "17de1ec7b059e946b0aa1bcdda9b2b20bd008eecbe4752d68a1a86d87d76274c"
+        }
+      ]
+    },
+    "modules/gui/client/components/profile/ProfilePreview.tsx:7:11-7:14": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/no-explicit-any",
+          "message": "Unexpected any. Specify a different type.",
+          "severity": 2,
+          "hash": "d6a7cd2a7371b1a15d543196979ff74fdb027023ebf187d5d329be11055c77fd"
+        }
+      ]
+    },
+    "modules/gui/client/components/profile/states/StateAndEffects.tsx:35:44-35:47": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/no-explicit-any",
+          "message": "Unexpected any. Specify a different type.",
+          "severity": 2,
+          "hash": "d6a7cd2a7371b1a15d543196979ff74fdb027023ebf187d5d329be11055c77fd"
+        }
+      ]
+    },
+    "modules/gui/client/components/shared/GUIWrapper.tsx:4:30-4:38": {
+      "errors": [
+        {
+          "ruleId": "react/prop-types",
+          "message": "'children' is missing in props validation",
+          "severity": 2,
+          "hash": "10910087de24bfcabe854fda62b5023a61fe531705043b9979fdf00f12c4c0ec"
+        }
+      ]
+    },
+    "modules/gui/client/components/skills/DraggableSkillLayer.tsx:25:11-25:12": {
+      "errors": [
+        {
+          "ruleId": "prefer-const",
+          "message": "'x' is never reassigned. Use 'const' instead.",
+          "severity": 2,
+          "hash": "2d711642b726b04401627ca9fbac32f5c8530fb1903cc4db02258717921a4881"
+        }
+      ]
+    },
+    "modules/gui/client/components/skills/DraggableSkillLayer.tsx:25:14-25:15": {
+      "errors": [
+        {
+          "ruleId": "prefer-const",
+          "message": "'y' is never reassigned. Use 'const' instead.",
+          "severity": 2,
+          "hash": "a1fce4363854ff888cff4b8e7875d600c2682390412a8cf79b37d0b11148b0fa"
+        }
+      ]
+    },
+    "modules/gui/client/components/skills/Skill.tsx:1:33-1:40": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/no-unused-vars",
+          "message": "'useMemo' is defined but never used.",
+          "severity": 2,
+          "hash": "c2840b6e27d4d6166b548e02cfc32f12d53a6f554303e08da607d9653783299f"
+        }
+      ]
+    },
+    "modules/gui/client/components/skills/Skill.tsx:11:12-11:15": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/no-explicit-any",
+          "message": "Unexpected any. Specify a different type.",
+          "severity": 2,
+          "hash": "d6a7cd2a7371b1a15d543196979ff74fdb027023ebf187d5d329be11055c77fd"
+        }
+      ]
+    },
+    "modules/gui/client/components/skills/Skill.tsx:35:14-35:21": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/no-unused-vars",
+          "message": "'opacity' is assigned a value but never used.",
+          "severity": 2,
+          "hash": "ad9a0b2eddd5849db61cfa7031fd5ff6d22ac8148b08d60f79ba0120dac0f5b8"
+        }
+      ]
+    },
+    "modules/gui/client/components/upgrading-item/ItemsNeededToUpgrade.tsx:42:17-42:45": {
+      "errors": [
+        {
+          "ruleId": "prefer-const",
+          "message": "'newItem' is never reassigned. Use 'const' instead.",
+          "severity": 2,
+          "hash": "e53cbe101a2abef4d088b4ffc84349582f883450631aa4aa638aa14ca1b31f6c"
+        }
+      ]
+    },
+    "modules/gui/client/gui/action-bar/ActionBarGUI.tsx:48:41-48:44": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/no-explicit-any",
+          "message": "Unexpected any. Specify a different type.",
+          "severity": 2,
+          "hash": "d6a7cd2a7371b1a15d543196979ff74fdb027023ebf187d5d329be11055c77fd"
+        }
+      ]
+    },
+    "modules/gui/client/gui/action-bar/ActionBarGUI.tsx:58:49-58:52": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/no-explicit-any",
+          "message": "Unexpected any. Specify a different type.",
+          "severity": 2,
+          "hash": "d6a7cd2a7371b1a15d543196979ff74fdb027023ebf187d5d329be11055c77fd"
+        }
+      ]
+    },
+    "modules/gui/client/gui/inventory/InventoryGUI.tsx:31:54-31:57": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/no-explicit-any",
+          "message": "Unexpected any. Specify a different type.",
+          "severity": 2,
+          "hash": "d6a7cd2a7371b1a15d543196979ff74fdb027023ebf187d5d329be11055c77fd"
+        }
+      ]
+    },
+    "modules/gui/client/gui/inventory/InventoryGUI.tsx:32:12-32:25": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/no-unused-vars",
+          "message": "'inventoryHash' is assigned a value but never used.",
+          "severity": 2,
+          "hash": "aadada375f2f3a4325e7105733583860196487be22a30348f1fe83d456e41940"
+        }
+      ]
+    },
+    "modules/gui/client/index.ts:11:1-11:18": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/ban-ts-comment",
+          "message": "Use \"@ts-expect-error\" instead of \"@ts-ignore\", as \"@ts-ignore\" will do nothing if the following line is error-free.",
+          "severity": 2,
+          "hash": "d62a3f462fd4a05023bd601dd9a6a20cc08b7da8407293cec6586506dc0f90c6"
+        }
+      ]
+    },
+    "modules/gui/client/src/InventoryManager.ts:7:29-7:32": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/no-explicit-any",
+          "message": "Unexpected any. Specify a different type.",
+          "severity": 2,
+          "hash": "d6a7cd2a7371b1a15d543196979ff74fdb027023ebf187d5d329be11055c77fd"
+        }
+      ]
+    },
+    "modules/gui/client/src/InventoryManager.ts:15:29-15:32": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/no-explicit-any",
+          "message": "Unexpected any. Specify a different type.",
+          "severity": 2,
+          "hash": "d6a7cd2a7371b1a15d543196979ff74fdb027023ebf187d5d329be11055c77fd"
+        }
+      ]
+    },
+    "modules/gui/client/src/InventoryMapper.ts:6:32-6:35": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/no-explicit-any",
+          "message": "Unexpected any. Specify a different type.",
+          "severity": 2,
+          "hash": "d6a7cd2a7371b1a15d543196979ff74fdb027023ebf187d5d329be11055c77fd"
+        }
+      ]
+    },
+    "modules/gui/client/src/InventoryMapper.ts:6:44-6:47": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/no-explicit-any",
+          "message": "Unexpected any. Specify a different type.",
+          "severity": 2,
+          "hash": "d6a7cd2a7371b1a15d543196979ff74fdb027023ebf187d5d329be11055c77fd"
+        }
+      ]
+    },
+    "modules/gui/client/src/InventoryMapper.ts:56:61-56:64": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/no-explicit-any",
+          "message": "Unexpected any. Specify a different type.",
+          "severity": 2,
+          "hash": "d6a7cd2a7371b1a15d543196979ff74fdb027023ebf187d5d329be11055c77fd"
+        }
+      ]
+    },
+    "modules/gui/client/src/InventoryMapper.ts:56:95-56:98": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/no-explicit-any",
+          "message": "Unexpected any. Specify a different type.",
+          "severity": 2,
+          "hash": "d6a7cd2a7371b1a15d543196979ff74fdb027023ebf187d5d329be11055c77fd"
+        }
+      ]
+    },
+    "modules/gui/client/src/InventoryMapper.ts:56:101-56:104": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/no-explicit-any",
+          "message": "Unexpected any. Specify a different type.",
+          "severity": 2,
+          "hash": "d6a7cd2a7371b1a15d543196979ff74fdb027023ebf187d5d329be11055c77fd"
+        }
+      ]
+    },
+    "modules/gui/client/src/InventoryMapper.ts:61:32-61:35": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/no-explicit-any",
+          "message": "Unexpected any. Specify a different type.",
+          "severity": 2,
+          "hash": "d6a7cd2a7371b1a15d543196979ff74fdb027023ebf187d5d329be11055c77fd"
+        }
+      ]
+    },
+    "modules/gui/client/src/InventoryMapper.ts:63:51-63:54": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/no-explicit-any",
+          "message": "Unexpected any. Specify a different type.",
+          "severity": 2,
+          "hash": "d6a7cd2a7371b1a15d543196979ff74fdb027023ebf187d5d329be11055c77fd"
+        }
+      ]
+    },
+    "modules/gui/client/src/InventoryMapper.ts:64:48-64:51": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/no-explicit-any",
+          "message": "Unexpected any. Specify a different type.",
+          "severity": 2,
+          "hash": "d6a7cd2a7371b1a15d543196979ff74fdb027023ebf187d5d329be11055c77fd"
+        }
+      ]
+    },
+    "modules/gui/client/src/InventoryMapper.ts:80:49-80:52": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/no-explicit-any",
+          "message": "Unexpected any. Specify a different type.",
+          "severity": 2,
+          "hash": "d6a7cd2a7371b1a15d543196979ff74fdb027023ebf187d5d329be11055c77fd"
+        }
+      ]
+    },
+    "modules/gui/client/src/inventory/Utils.ts:4:59-4:62": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/no-explicit-any",
+          "message": "Unexpected any. Specify a different type.",
+          "severity": 2,
+          "hash": "d6a7cd2a7371b1a15d543196979ff74fdb027023ebf187d5d329be11055c77fd"
+        }
+      ]
+    },
+    "modules/gui/client/src/inventory/Utils.ts:5:21-5:24": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/no-explicit-any",
+          "message": "Unexpected any. Specify a different type.",
+          "severity": 2,
+          "hash": "d6a7cd2a7371b1a15d543196979ff74fdb027023ebf187d5d329be11055c77fd"
+        }
+      ]
+    },
+    "modules/gui/client/src/inventory/Utils.ts:10:49-10:52": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/no-explicit-any",
+          "message": "Unexpected any. Specify a different type.",
+          "severity": 2,
+          "hash": "d6a7cd2a7371b1a15d543196979ff74fdb027023ebf187d5d329be11055c77fd"
+        }
+      ]
+    },
+    "modules/gui/client/src/inventory/Utils.ts:11:63-11:66": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/no-explicit-any",
+          "message": "Unexpected any. Specify a different type.",
+          "severity": 2,
+          "hash": "d6a7cd2a7371b1a15d543196979ff74fdb027023ebf187d5d329be11055c77fd"
+        }
+      ]
+    },
+    "modules/gui/index.ts:1:1-1:18": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/ban-ts-comment",
+          "message": "Use \"@ts-expect-error\" instead of \"@ts-ignore\", as \"@ts-ignore\" will do nothing if the following line is error-free.",
+          "severity": 2,
+          "hash": "d62a3f462fd4a05023bd601dd9a6a20cc08b7da8407293cec6586506dc0f90c6"
+        }
+      ]
+    },
+    "modules/gui/index.ts:3:1-3:18": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/ban-ts-comment",
+          "message": "Use \"@ts-expect-error\" instead of \"@ts-ignore\", as \"@ts-ignore\" will do nothing if the following line is error-free.",
+          "severity": 2,
+          "hash": "d62a3f462fd4a05023bd601dd9a6a20cc08b7da8407293cec6586506dc0f90c6"
+        }
+      ]
+    },
+    "modules/gui/server/index.ts:4:1-4:18": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/ban-ts-comment",
+          "message": "Use \"@ts-expect-error\" instead of \"@ts-ignore\", as \"@ts-ignore\" will do nothing if the following line is error-free.",
+          "severity": 2,
+          "hash": "d62a3f462fd4a05023bd601dd9a6a20cc08b7da8407293cec6586506dc0f90c6"
+        }
+      ]
+    },
+    "modules/heroes/database/actors/HumanActor.ts:6:16-6:19": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/no-unused-vars",
+          "message": "'ATK' is assigned a value but never used.",
+          "severity": 2,
+          "hash": "ad5b433f01b517ddc7ce7ce3b91cf713962acf1f4d88fe044fb880adb1ede83c"
+        }
+      ]
+    },
+    "modules/heroes/database/classes/ElfClass.ts:4:1-4:18": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/ban-ts-comment",
+          "message": "Use \"@ts-expect-error\" instead of \"@ts-ignore\", as \"@ts-ignore\" will do nothing if the following line is error-free.",
+          "severity": 2,
+          "hash": "d62a3f462fd4a05023bd601dd9a6a20cc08b7da8407293cec6586506dc0f90c6"
+        }
+      ]
+    },
+    "modules/heroes/database/classes/GoblinClass.ts:4:1-4:18": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/ban-ts-comment",
+          "message": "Use \"@ts-expect-error\" instead of \"@ts-ignore\", as \"@ts-ignore\" will do nothing if the following line is error-free.",
+          "severity": 2,
+          "hash": "d62a3f462fd4a05023bd601dd9a6a20cc08b7da8407293cec6586506dc0f90c6"
+        }
+      ]
+    },
+    "modules/heroes/database/classes/HumanClass.ts:5:1-5:18": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/ban-ts-comment",
+          "message": "Use \"@ts-expect-error\" instead of \"@ts-ignore\", as \"@ts-ignore\" will do nothing if the following line is error-free.",
+          "severity": 2,
+          "hash": "d62a3f462fd4a05023bd601dd9a6a20cc08b7da8407293cec6586506dc0f90c6"
+        }
+      ]
+    },
+    "modules/heroes/database/classes/LizardClass.ts:4:1-4:18": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/ban-ts-comment",
+          "message": "Use \"@ts-expect-error\" instead of \"@ts-ignore\", as \"@ts-ignore\" will do nothing if the following line is error-free.",
+          "severity": 2,
+          "hash": "d62a3f462fd4a05023bd601dd9a6a20cc08b7da8407293cec6586506dc0f90c6"
+        }
+      ]
+    },
+    "modules/heroes/database/classes/OrcClass.ts:4:1-4:18": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/ban-ts-comment",
+          "message": "Use \"@ts-expect-error\" instead of \"@ts-ignore\", as \"@ts-ignore\" will do nothing if the following line is error-free.",
+          "severity": 2,
+          "hash": "d62a3f462fd4a05023bd601dd9a6a20cc08b7da8407293cec6586506dc0f90c6"
+        }
+      ]
+    },
+    "modules/heroes/database/classes/TrollClass.ts:4:1-4:18": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/ban-ts-comment",
+          "message": "Use \"@ts-expect-error\" instead of \"@ts-ignore\", as \"@ts-ignore\" will do nothing if the following line is error-free.",
+          "severity": 2,
+          "hash": "d62a3f462fd4a05023bd601dd9a6a20cc08b7da8407293cec6586506dc0f90c6"
+        }
+      ]
+    },
+    "modules/heroes/database/classes/VampireClass.ts:4:1-4:18": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/ban-ts-comment",
+          "message": "Use \"@ts-expect-error\" instead of \"@ts-ignore\", as \"@ts-ignore\" will do nothing if the following line is error-free.",
+          "severity": 2,
+          "hash": "d62a3f462fd4a05023bd601dd9a6a20cc08b7da8407293cec6586506dc0f90c6"
+        }
+      ]
+    },
+    "modules/heroes/database/classes/WarewolfClass.ts:4:1-4:18": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/ban-ts-comment",
+          "message": "Use \"@ts-expect-error\" instead of \"@ts-ignore\", as \"@ts-ignore\" will do nothing if the following line is error-free.",
+          "severity": 2,
+          "hash": "d62a3f462fd4a05023bd601dd9a6a20cc08b7da8407293cec6586506dc0f90c6"
+        }
+      ]
+    },
+    "modules/heroes/database/physical-attacks/MagePhysicalAttack.ts:4:1-4:14": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/ban-ts-comment",
+          "message": "Use \"@ts-expect-error\" instead of \"@ts-ignore\", as \"@ts-ignore\" will do nothing if the following line is error-free.",
+          "severity": 2,
+          "hash": "2fcfdd2ef03f056a2a34212f08ccfb4f05074990e8fd22f3a524a433cb3b0aa8"
+        }
+      ]
+    },
+    "modules/heroes/database/skills/AquamarineGreenAOESkill.ts:1:19-1:27": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/no-unused-vars",
+          "message": "'RpgEvent' is defined but never used.",
+          "severity": 2,
+          "hash": "9a46a88a82e382c328b0729e82bfa70c72e27b70f086794499d0b619a58e590f"
+        }
+      ]
+    },
+    "modules/heroes/database/skills/AquamarineGreenAOESkill.ts:11:1-11:18": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/ban-ts-comment",
+          "message": "Use \"@ts-expect-error\" instead of \"@ts-ignore\", as \"@ts-ignore\" will do nothing if the following line is error-free.",
+          "severity": 2,
+          "hash": "d62a3f462fd4a05023bd601dd9a6a20cc08b7da8407293cec6586506dc0f90c6"
+        }
+      ]
+    },
+    "modules/heroes/database/skills/EnergyOfTheCometSkill.ts:6:1-6:18": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/ban-ts-comment",
+          "message": "Use \"@ts-expect-error\" instead of \"@ts-ignore\", as \"@ts-ignore\" will do nothing if the following line is error-free.",
+          "severity": 2,
+          "hash": "d62a3f462fd4a05023bd601dd9a6a20cc08b7da8407293cec6586506dc0f90c6"
+        }
+      ]
+    },
+    "modules/heroes/database/skills/FireSuperslashSkill.ts:9:1-9:18": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/ban-ts-comment",
+          "message": "Use \"@ts-expect-error\" instead of \"@ts-ignore\", as \"@ts-ignore\" will do nothing if the following line is error-free.",
+          "severity": 2,
+          "hash": "d62a3f462fd4a05023bd601dd9a6a20cc08b7da8407293cec6586506dc0f90c6"
+        }
+      ]
+    },
+    "modules/heroes/events/aoe-parts/AquamarineGreen.ts:3:1-3:14": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/ban-ts-comment",
+          "message": "Use \"@ts-expect-error\" instead of \"@ts-ignore\", as \"@ts-ignore\" will do nothing if the following line is error-free.",
+          "severity": 2,
+          "hash": "2fcfdd2ef03f056a2a34212f08ccfb4f05074990e8fd22f3a524a433cb3b0aa8"
+        }
+      ]
+    },
+    "modules/heroes/events/bullets/ArrowBullet.ts:3:1-3:14": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/ban-ts-comment",
+          "message": "Use \"@ts-expect-error\" instead of \"@ts-ignore\", as \"@ts-ignore\" will do nothing if the following line is error-free.",
+          "severity": 2,
+          "hash": "2fcfdd2ef03f056a2a34212f08ccfb4f05074990e8fd22f3a524a433cb3b0aa8"
+        }
+      ]
+    },
+    "modules/heroes/events/bullets/EnergyOfTheCometBullet.ts:3:1-3:14": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/ban-ts-comment",
+          "message": "Use \"@ts-expect-error\" instead of \"@ts-ignore\", as \"@ts-ignore\" will do nothing if the following line is error-free.",
+          "severity": 2,
+          "hash": "2fcfdd2ef03f056a2a34212f08ccfb4f05074990e8fd22f3a524a433cb3b0aa8"
+        }
+      ]
+    },
+    "modules/heroes/sprite.ts:21:33-21:36": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/no-unused-vars",
+          "message": "'obj' is defined but never used.",
+          "severity": 2,
+          "hash": "772a5fb04f9bad38681a2f56ddfdbd6a15185753df8dcc029788d02bf3b6825b"
+        }
+      ]
+    },
+    "modules/heroes/src/PlayerPhysicalAttackManager.ts:39:64-39:67": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/no-explicit-any",
+          "message": "Unexpected any. Specify a different type.",
+          "severity": 2,
+          "hash": "d6a7cd2a7371b1a15d543196979ff74fdb027023ebf187d5d329be11055c77fd"
+        }
+      ]
+    },
+    "modules/heroes/src/interface/EquipmentsManager.ts:4:18-4:35": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/no-unsafe-declaration-merging",
+          "message": "Unsafe declaration merging between classes and interfaces.",
+          "severity": 2,
+          "hash": "d984da7c21c6ae90613aa0aaa530b0478cd9777c0935e463ec3c03ac5d8cce6d"
+        }
+      ]
+    },
+    "modules/heroes/src/interface/EquipmentsManager.ts:8:14-8:31": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/no-unsafe-declaration-merging",
+          "message": "Unsafe declaration merging between classes and interfaces.",
+          "severity": 2,
+          "hash": "d984da7c21c6ae90613aa0aaa530b0478cd9777c0935e463ec3c03ac5d8cce6d"
+        }
+      ]
+    },
+    "modules/inventory-extension/__test__/fixtures/item.ts:40:1-40:18": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/ban-ts-comment",
+          "message": "Use \"@ts-expect-error\" instead of \"@ts-ignore\", as \"@ts-ignore\" will do nothing if the following line is error-free.",
+          "severity": 2,
+          "hash": "d62a3f462fd4a05023bd601dd9a6a20cc08b7da8407293cec6586506dc0f90c6"
+        }
+      ]
+    },
+    "modules/inventory-extension/__test__/fixtures/item.ts:49:1-49:18": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/ban-ts-comment",
+          "message": "Use \"@ts-expect-error\" instead of \"@ts-ignore\", as \"@ts-ignore\" will do nothing if the following line is error-free.",
+          "severity": 2,
+          "hash": "d62a3f462fd4a05023bd601dd9a6a20cc08b7da8407293cec6586506dc0f90c6"
+        }
+      ]
+    },
+    "modules/inventory-extension/__test__/inventory.spec.ts:10:1-10:18": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/ban-ts-comment",
+          "message": "Use \"@ts-expect-error\" instead of \"@ts-ignore\", as \"@ts-ignore\" will do nothing if the following line is error-free.",
+          "severity": 2,
+          "hash": "d62a3f462fd4a05023bd601dd9a6a20cc08b7da8407293cec6586506dc0f90c6"
+        }
+      ]
+    },
+    "modules/inventory-extension/__test__/inventory.spec.ts:14:1-14:18": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/ban-ts-comment",
+          "message": "Use \"@ts-expect-error\" instead of \"@ts-ignore\", as \"@ts-ignore\" will do nothing if the following line is error-free.",
+          "severity": 2,
+          "hash": "d62a3f462fd4a05023bd601dd9a6a20cc08b7da8407293cec6586506dc0f90c6"
+        }
+      ]
+    },
+    "modules/inventory-extension/__test__/inventory.spec.ts:24:1-24:18": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/ban-ts-comment",
+          "message": "Use \"@ts-expect-error\" instead of \"@ts-ignore\", as \"@ts-ignore\" will do nothing if the following line is error-free.",
+          "severity": 2,
+          "hash": "d62a3f462fd4a05023bd601dd9a6a20cc08b7da8407293cec6586506dc0f90c6"
+        }
+      ]
+    },
+    "modules/inventory-extension/__test__/inventory.spec.ts:33:5-33:28": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/no-unused-vars",
+          "message": "'client' is assigned a value but never used.",
+          "severity": 2,
+          "hash": "095ded814c07b5e21891e792b547e013f383523508a00b4ccc8667a9e5b5ea33"
+        }
+      ]
+    },
+    "modules/inventory-extension/__test__/use-item.spec.ts:13:1-13:18": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/ban-ts-comment",
+          "message": "Use \"@ts-expect-error\" instead of \"@ts-ignore\", as \"@ts-ignore\" will do nothing if the following line is error-free.",
+          "severity": 2,
+          "hash": "d62a3f462fd4a05023bd601dd9a6a20cc08b7da8407293cec6586506dc0f90c6"
+        }
+      ]
+    },
+    "modules/inventory-extension/__test__/use-item.spec.ts:24:5-24:28": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/no-unused-vars",
+          "message": "'client' is assigned a value but never used.",
+          "severity": 2,
+          "hash": "095ded814c07b5e21891e792b547e013f383523508a00b4ccc8667a9e5b5ea33"
+        }
+      ]
+    },
+    "modules/inventory-extension/__test__/use-item.spec.ts:25:5-25:28": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/no-unused-vars",
+          "message": "'server' is assigned a value but never used.",
+          "severity": 2,
+          "hash": "bbdcf93425e59cdfc27ba8649e63200fd471bb5f2b4d9bd8c499e281680b56cf"
+        }
+      ]
+    },
+    "modules/inventory-extension/player.ts:58:67-58:70": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/no-explicit-any",
+          "message": "Unexpected any. Specify a different type.",
+          "severity": 2,
+          "hash": "d6a7cd2a7371b1a15d543196979ff74fdb027023ebf187d5d329be11055c77fd"
+        }
+      ]
+    },
+    "modules/inventory-extension/src/decorators/Armor.ts:13:56-13:59": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/no-explicit-any",
+          "message": "Unexpected any. Specify a different type.",
+          "severity": 2,
+          "hash": "d6a7cd2a7371b1a15d543196979ff74fdb027023ebf187d5d329be11055c77fd"
+        }
+      ]
+    },
+    "modules/inventory-extension/src/decorators/Armor.ts:13:74-13:77": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/no-explicit-any",
+          "message": "Unexpected any. Specify a different type.",
+          "severity": 2,
+          "hash": "d6a7cd2a7371b1a15d543196979ff74fdb027023ebf187d5d329be11055c77fd"
+        }
+      ]
+    },
+    "modules/inventory-extension/src/decorators/Armor.ts:14:30-14:33": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/no-explicit-any",
+          "message": "Unexpected any. Specify a different type.",
+          "severity": 2,
+          "hash": "d6a7cd2a7371b1a15d543196979ff74fdb027023ebf187d5d329be11055c77fd"
+        }
+      ]
+    },
+    "modules/inventory-extension/src/decorators/Item.ts:8:54-8:57": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/no-explicit-any",
+          "message": "Unexpected any. Specify a different type.",
+          "severity": 2,
+          "hash": "d6a7cd2a7371b1a15d543196979ff74fdb027023ebf187d5d329be11055c77fd"
+        }
+      ]
+    },
+    "modules/inventory-extension/src/decorators/Item.ts:8:72-8:75": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/no-explicit-any",
+          "message": "Unexpected any. Specify a different type.",
+          "severity": 2,
+          "hash": "d6a7cd2a7371b1a15d543196979ff74fdb027023ebf187d5d329be11055c77fd"
+        }
+      ]
+    },
+    "modules/inventory-extension/src/decorators/Item.ts:9:30-9:33": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/no-explicit-any",
+          "message": "Unexpected any. Specify a different type.",
+          "severity": 2,
+          "hash": "d6a7cd2a7371b1a15d543196979ff74fdb027023ebf187d5d329be11055c77fd"
+        }
+      ]
+    },
+    "modules/inventory-extension/src/decorators/ItemCommon.ts:11:30-11:33": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/no-explicit-any",
+          "message": "Unexpected any. Specify a different type.",
+          "severity": 2,
+          "hash": "d6a7cd2a7371b1a15d543196979ff74fdb027023ebf187d5d329be11055c77fd"
+        }
+      ]
+    },
+    "modules/inventory-extension/src/decorators/Plate.ts:4:56-4:59": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/no-explicit-any",
+          "message": "Unexpected any. Specify a different type.",
+          "severity": 2,
+          "hash": "d6a7cd2a7371b1a15d543196979ff74fdb027023ebf187d5d329be11055c77fd"
+        }
+      ]
+    },
+    "modules/inventory-extension/src/decorators/Plate.ts:4:74-4:77": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/no-explicit-any",
+          "message": "Unexpected any. Specify a different type.",
+          "severity": 2,
+          "hash": "d6a7cd2a7371b1a15d543196979ff74fdb027023ebf187d5d329be11055c77fd"
+        }
+      ]
+    },
+    "modules/inventory-extension/src/decorators/Plate.ts:5:29-5:32": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/no-explicit-any",
+          "message": "Unexpected any. Specify a different type.",
+          "severity": 2,
+          "hash": "d6a7cd2a7371b1a15d543196979ff74fdb027023ebf187d5d329be11055c77fd"
+        }
+      ]
+    },
+    "modules/inventory-extension/src/decorators/Plate.ts:5:47-5:50": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/no-explicit-any",
+          "message": "Unexpected any. Specify a different type.",
+          "severity": 2,
+          "hash": "d6a7cd2a7371b1a15d543196979ff74fdb027023ebf187d5d329be11055c77fd"
+        }
+      ]
+    },
+    "modules/inventory-extension/src/decorators/Shield.ts:4:57-4:60": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/no-explicit-any",
+          "message": "Unexpected any. Specify a different type.",
+          "severity": 2,
+          "hash": "d6a7cd2a7371b1a15d543196979ff74fdb027023ebf187d5d329be11055c77fd"
+        }
+      ]
+    },
+    "modules/inventory-extension/src/decorators/Shield.ts:4:75-4:78": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/no-explicit-any",
+          "message": "Unexpected any. Specify a different type.",
+          "severity": 2,
+          "hash": "d6a7cd2a7371b1a15d543196979ff74fdb027023ebf187d5d329be11055c77fd"
+        }
+      ]
+    },
+    "modules/inventory-extension/src/decorators/Shield.ts:5:29-5:32": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/no-explicit-any",
+          "message": "Unexpected any. Specify a different type.",
+          "severity": 2,
+          "hash": "d6a7cd2a7371b1a15d543196979ff74fdb027023ebf187d5d329be11055c77fd"
+        }
+      ]
+    },
+    "modules/inventory-extension/src/decorators/Shield.ts:5:47-5:50": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/no-explicit-any",
+          "message": "Unexpected any. Specify a different type.",
+          "severity": 2,
+          "hash": "d6a7cd2a7371b1a15d543196979ff74fdb027023ebf187d5d329be11055c77fd"
+        }
+      ]
+    },
+    "modules/inventory-extension/src/decorators/Weapon.ts:13:26-13:29": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/no-explicit-any",
+          "message": "Unexpected any. Specify a different type.",
+          "severity": 2,
+          "hash": "d6a7cd2a7371b1a15d543196979ff74fdb027023ebf187d5d329be11055c77fd"
+        }
+      ]
+    },
+    "modules/inventory-extension/src/decorators/Weapon.ts:15:14-15:17": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/no-explicit-any",
+          "message": "Unexpected any. Specify a different type.",
+          "severity": 2,
+          "hash": "d6a7cd2a7371b1a15d543196979ff74fdb027023ebf187d5d329be11055c77fd"
+        }
+      ]
+    },
+    "modules/inventory-extension/src/decorators/Weapon.ts:19:58-19:61": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/no-explicit-any",
+          "message": "Unexpected any. Specify a different type.",
+          "severity": 2,
+          "hash": "d6a7cd2a7371b1a15d543196979ff74fdb027023ebf187d5d329be11055c77fd"
+        }
+      ]
+    },
+    "modules/inventory-extension/src/decorators/Weapon.ts:19:76-19:79": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/no-explicit-any",
+          "message": "Unexpected any. Specify a different type.",
+          "severity": 2,
+          "hash": "d6a7cd2a7371b1a15d543196979ff74fdb027023ebf187d5d329be11055c77fd"
+        }
+      ]
+    },
+    "modules/inventory-extension/src/decorators/Weapon.ts:20:29-20:32": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/no-explicit-any",
+          "message": "Unexpected any. Specify a different type.",
+          "severity": 2,
+          "hash": "d6a7cd2a7371b1a15d543196979ff74fdb027023ebf187d5d329be11055c77fd"
+        }
+      ]
+    },
+    "modules/inventory-extension/src/decorators/item/ItemLevel.ts:8:64-8:67": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/no-explicit-any",
+          "message": "Unexpected any. Specify a different type.",
+          "severity": 2,
+          "hash": "d6a7cd2a7371b1a15d543196979ff74fdb027023ebf187d5d329be11055c77fd"
+        }
+      ]
+    },
+    "modules/inventory-extension/src/decorators/item/ItemLevel.ts:9:30-9:33": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/no-explicit-any",
+          "message": "Unexpected any. Specify a different type.",
+          "severity": 2,
+          "hash": "d6a7cd2a7371b1a15d543196979ff74fdb027023ebf187d5d329be11055c77fd"
+        }
+      ]
+    },
+    "modules/inventory-extension/src/decorators/item/ItemMagnificence.ts:8:78-8:81": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/no-explicit-any",
+          "message": "Unexpected any. Specify a different type.",
+          "severity": 2,
+          "hash": "d6a7cd2a7371b1a15d543196979ff74fdb027023ebf187d5d329be11055c77fd"
+        }
+      ]
+    },
+    "modules/inventory-extension/src/decorators/item/ItemMagnificence.ts:9:30-9:33": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/no-explicit-any",
+          "message": "Unexpected any. Specify a different type.",
+          "severity": 2,
+          "hash": "d6a7cd2a7371b1a15d543196979ff74fdb027023ebf187d5d329be11055c77fd"
+        }
+      ]
+    },
+    "modules/inventory-extension/src/hooks/InventoryInteractionHooks.ts:40:21-40:24": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/no-explicit-any",
+          "message": "Unexpected any. Specify a different type.",
+          "severity": 2,
+          "hash": "d6a7cd2a7371b1a15d543196979ff74fdb027023ebf187d5d329be11055c77fd"
+        }
+      ]
+    },
+    "modules/inventory-extension/src/interfaces/ItemClass.ts:4:18-4:21": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/no-explicit-any",
+          "message": "Unexpected any. Specify a different type.",
+          "severity": 2,
+          "hash": "d6a7cd2a7371b1a15d543196979ff74fdb027023ebf187d5d329be11055c77fd"
+        }
+      ]
+    },
+    "modules/inventory-extension/src/interfaces/ItemModel.ts:14:27-14:30": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/no-explicit-any",
+          "message": "Unexpected any. Specify a different type.",
+          "severity": 2,
+          "hash": "d6a7cd2a7371b1a15d543196979ff74fdb027023ebf187d5d329be11055c77fd"
+        }
+      ]
+    },
+    "modules/inventory-extension/src/service/PickUp.ts:14:37-14:40": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/no-explicit-any",
+          "message": "Unexpected any. Specify a different type.",
+          "severity": 2,
+          "hash": "d6a7cd2a7371b1a15d543196979ff74fdb027023ebf187d5d329be11055c77fd"
+        }
+      ]
+    },
+    "modules/inventory-extension/src/service/SpawnItem.ts:19:9-19:26": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/ban-ts-comment",
+          "message": "Use \"@ts-expect-error\" instead of \"@ts-ignore\", as \"@ts-ignore\" will do nothing if the following line is error-free.",
+          "severity": 2,
+          "hash": "d62a3f462fd4a05023bd601dd9a6a20cc08b7da8407293cec6586506dc0f90c6"
+        }
+      ]
+    },
+    "modules/items/database/consumables/Potion.ts:3:1-3:18": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/ban-ts-comment",
+          "message": "Use \"@ts-expect-error\" instead of \"@ts-ignore\", as \"@ts-ignore\" will do nothing if the following line is error-free.",
+          "severity": 2,
+          "hash": "d62a3f462fd4a05023bd601dd9a6a20cc08b7da8407293cec6586506dc0f90c6"
+        }
+      ]
+    },
+    "modules/items/database/scrolls/UpgradingScroll1.ts:3:1-3:18": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/ban-ts-comment",
+          "message": "Use \"@ts-expect-error\" instead of \"@ts-ignore\", as \"@ts-ignore\" will do nothing if the following line is error-free.",
+          "severity": 2,
+          "hash": "d62a3f462fd4a05023bd601dd9a6a20cc08b7da8407293cec6586506dc0f90c6"
+        }
+      ]
+    },
+    "modules/items/database/scrolls/UpgradingScroll2.ts:3:1-3:18": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/ban-ts-comment",
+          "message": "Use \"@ts-expect-error\" instead of \"@ts-ignore\", as \"@ts-ignore\" will do nothing if the following line is error-free.",
+          "severity": 2,
+          "hash": "d62a3f462fd4a05023bd601dd9a6a20cc08b7da8407293cec6586506dc0f90c6"
+        }
+      ]
+    },
+    "modules/items/database/scrolls/UpgradingScroll3.ts:3:1-3:18": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/ban-ts-comment",
+          "message": "Use \"@ts-expect-error\" instead of \"@ts-ignore\", as \"@ts-ignore\" will do nothing if the following line is error-free.",
+          "severity": 2,
+          "hash": "d62a3f462fd4a05023bd601dd9a6a20cc08b7da8407293cec6586506dc0f90c6"
+        }
+      ]
+    },
+    "modules/items/database-random/armors/plate/SteelPlate.ts:13:5-13:18": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/ban-ts-comment",
+          "message": "Use \"@ts-expect-error\" instead of \"@ts-ignore\", as \"@ts-ignore\" will do nothing if the following line is error-free.",
+          "severity": 2,
+          "hash": "2fcfdd2ef03f056a2a34212f08ccfb4f05074990e8fd22f3a524a433cb3b0aa8"
+        }
+      ]
+    },
+    "modules/items/database-random/armors/shields/CircleShield.ts:13:5-13:18": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/ban-ts-comment",
+          "message": "Use \"@ts-expect-error\" instead of \"@ts-ignore\", as \"@ts-ignore\" will do nothing if the following line is error-free.",
+          "severity": 2,
+          "hash": "2fcfdd2ef03f056a2a34212f08ccfb4f05074990e8fd22f3a524a433cb3b0aa8"
+        }
+      ]
+    },
+    "modules/items/database-random/weapons/swords/BigSword.ts:14:5-14:18": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/ban-ts-comment",
+          "message": "Use \"@ts-expect-error\" instead of \"@ts-ignore\", as \"@ts-ignore\" will do nothing if the following line is error-free.",
+          "severity": 2,
+          "hash": "2fcfdd2ef03f056a2a34212f08ccfb4f05074990e8fd22f3a524a433cb3b0aa8"
+        }
+      ]
+    },
+    "modules/maps/maps/grass-land1.ts:5:1-5:18": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/ban-ts-comment",
+          "message": "Use \"@ts-expect-error\" instead of \"@ts-ignore\", as \"@ts-ignore\" will do nothing if the following line is error-free.",
+          "severity": 2,
+          "hash": "d62a3f462fd4a05023bd601dd9a6a20cc08b7da8407293cec6586506dc0f90c6"
+        }
+      ]
+    },
+    "modules/maps/maps/grass-land2.ts:5:1-5:18": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/ban-ts-comment",
+          "message": "Use \"@ts-expect-error\" instead of \"@ts-ignore\", as \"@ts-ignore\" will do nothing if the following line is error-free.",
+          "severity": 2,
+          "hash": "d62a3f462fd4a05023bd601dd9a6a20cc08b7da8407293cec6586506dc0f90c6"
+        }
+      ]
+    },
+    "modules/maps/maps/grass-land23.ts:5:1-5:18": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/ban-ts-comment",
+          "message": "Use \"@ts-expect-error\" instead of \"@ts-ignore\", as \"@ts-ignore\" will do nothing if the following line is error-free.",
+          "severity": 2,
+          "hash": "d62a3f462fd4a05023bd601dd9a6a20cc08b7da8407293cec6586506dc0f90c6"
+        }
+      ]
+    },
+    "modules/maps/maps/grass-land43.ts:5:1-5:18": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/ban-ts-comment",
+          "message": "Use \"@ts-expect-error\" instead of \"@ts-ignore\", as \"@ts-ignore\" will do nothing if the following line is error-free.",
+          "severity": 2,
+          "hash": "d62a3f462fd4a05023bd601dd9a6a20cc08b7da8407293cec6586506dc0f90c6"
+        }
+      ]
+    },
+    "modules/move/client/index.ts:3:1-3:18": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/ban-ts-comment",
+          "message": "Use \"@ts-expect-error\" instead of \"@ts-ignore\", as \"@ts-ignore\" will do nothing if the following line is error-free.",
+          "severity": 2,
+          "hash": "d62a3f462fd4a05023bd601dd9a6a20cc08b7da8407293cec6586506dc0f90c6"
+        }
+      ]
+    },
+    "modules/move/index.ts:1:1-1:18": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/ban-ts-comment",
+          "message": "Use \"@ts-expect-error\" instead of \"@ts-ignore\", as \"@ts-ignore\" will do nothing if the following line is error-free.",
+          "severity": 2,
+          "hash": "d62a3f462fd4a05023bd601dd9a6a20cc08b7da8407293cec6586506dc0f90c6"
+        }
+      ]
+    },
+    "modules/move/index.ts:3:1-3:18": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/ban-ts-comment",
+          "message": "Use \"@ts-expect-error\" instead of \"@ts-ignore\", as \"@ts-ignore\" will do nothing if the following line is error-free.",
+          "severity": 2,
+          "hash": "d62a3f462fd4a05023bd601dd9a6a20cc08b7da8407293cec6586506dc0f90c6"
+        }
+      ]
+    },
+    "modules/move/server/index.ts:4:1-4:18": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/ban-ts-comment",
+          "message": "Use \"@ts-expect-error\" instead of \"@ts-ignore\", as \"@ts-ignore\" will do nothing if the following line is error-free.",
+          "severity": 2,
+          "hash": "d62a3f462fd4a05023bd601dd9a6a20cc08b7da8407293cec6586506dc0f90c6"
+        }
+      ]
+    },
+    "modules/move/server/src/MoveManager.ts:5:18-5:29": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/no-unsafe-declaration-merging",
+          "message": "Unsafe declaration merging between classes and interfaces.",
+          "severity": 2,
+          "hash": "7b663ad151c0a4968e2268d36c171220c8530514a1cf03e08f74d6cc62322381"
+        }
+      ]
+    },
+    "modules/move/server/src/MoveManager.ts:26:14-26:25": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/no-unsafe-declaration-merging",
+          "message": "Unsafe declaration merging between classes and interfaces.",
+          "severity": 2,
+          "hash": "7b663ad151c0a4968e2268d36c171220c8530514a1cf03e08f74d6cc62322381"
+        }
+      ]
+    },
+    "modules/move/server/src/MoveManager.ts:55:13-55:23": {
+      "errors": [
+        {
+          "ruleId": "prefer-const",
+          "message": "'contenders' is never reassigned. Use 'const' instead.",
+          "severity": 2,
+          "hash": "37924dba873f27fe222439b432cea7e352e87c951a02bcedf94b85e60d832ab2"
+        }
+      ]
+    },
+    "modules/move/server/src/MoveManager.ts:94:13-94:18": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/no-unused-vars",
+          "message": "'count' is assigned a value but never used.",
+          "severity": 2,
+          "hash": "6c35493a2b937829c9815c39e23af964bc84e5430a7dc104c700bbc0de2b59e3"
+        }
+      ]
+    },
+    "modules/move/server/src/MoveManager.ts:100:9-100:26": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/ban-ts-comment",
+          "message": "Use \"@ts-expect-error\" instead of \"@ts-ignore\", as \"@ts-ignore\" will do nothing if the following line is error-free.",
+          "severity": 2,
+          "hash": "d62a3f462fd4a05023bd601dd9a6a20cc08b7da8407293cec6586506dc0f90c6"
+        }
+      ]
+    },
+    "modules/move/server/src/MoveManager.ts:103:17-103:34": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/ban-ts-comment",
+          "message": "Use \"@ts-expect-error\" instead of \"@ts-ignore\", as \"@ts-ignore\" will do nothing if the following line is error-free.",
+          "severity": 2,
+          "hash": "d62a3f462fd4a05023bd601dd9a6a20cc08b7da8407293cec6586506dc0f90c6"
+        }
+      ]
+    },
+    "modules/popping-numbers/client/sprite.ts:13:43-13:46": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/no-explicit-any",
+          "message": "Unexpected any. Specify a different type.",
+          "severity": 2,
+          "hash": "d6a7cd2a7371b1a15d543196979ff74fdb027023ebf187d5d329be11055c77fd"
+        }
+      ]
+    },
+    "modules/save/player.ts:29:43-29:46": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/no-explicit-any",
+          "message": "Unexpected any. Specify a different type.",
+          "severity": 2,
+          "hash": "d6a7cd2a7371b1a15d543196979ff74fdb027023ebf187d5d329be11055c77fd"
+        }
+      ]
+    },
+    "modules/save/player.ts:38:21-38:24": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/no-explicit-any",
+          "message": "Unexpected any. Specify a different type.",
+          "severity": 2,
+          "hash": "d6a7cd2a7371b1a15d543196979ff74fdb027023ebf187d5d329be11055c77fd"
+        }
+      ]
+    },
+    "modules/save/src/DatabaseManager.ts:8:18-8:33": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/no-unsafe-declaration-merging",
+          "message": "Unsafe declaration merging between classes and interfaces.",
+          "severity": 2,
+          "hash": "bf4b7bca9fef12af99875d9b392d787a1d9ebd47f0f6d06b2888b56483e0770a"
+        }
+      ]
+    },
+    "modules/save/src/DatabaseManager.ts:9:15-9:18": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/no-explicit-any",
+          "message": "Unexpected any. Specify a different type.",
+          "severity": 2,
+          "hash": "d6a7cd2a7371b1a15d543196979ff74fdb027023ebf187d5d329be11055c77fd"
+        }
+      ]
+    },
+    "modules/save/src/DatabaseManager.ts:10:42-10:45": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/no-explicit-any",
+          "message": "Unexpected any. Specify a different type.",
+          "severity": 2,
+          "hash": "d6a7cd2a7371b1a15d543196979ff74fdb027023ebf187d5d329be11055c77fd"
+        }
+      ]
+    },
+    "modules/save/src/DatabaseManager.ts:13:14-13:29": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/no-unsafe-declaration-merging",
+          "message": "Unsafe declaration merging between classes and interfaces.",
+          "severity": 2,
+          "hash": "bf4b7bca9fef12af99875d9b392d787a1d9ebd47f0f6d06b2888b56483e0770a"
+        }
+      ]
+    },
+    "modules/save/src/DatabaseManager.ts:14:50-14:53": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/no-explicit-any",
+          "message": "Unexpected any. Specify a different type.",
+          "severity": 2,
+          "hash": "d6a7cd2a7371b1a15d543196979ff74fdb027023ebf187d5d329be11055c77fd"
+        }
+      ]
+    },
+    "modules/save/src/DatabaseManager.ts:34:17-34:30": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/ban-ts-comment",
+          "message": "Use \"@ts-expect-error\" instead of \"@ts-ignore\", as \"@ts-ignore\" will do nothing if the following line is error-free.",
+          "severity": 2,
+          "hash": "2fcfdd2ef03f056a2a34212f08ccfb4f05074990e8fd22f3a524a433cb3b0aa8"
+        }
+      ]
+    },
+    "modules/save/src/DatabaseManager.ts:35:17-35:55": {
+      "errors": [
+        {
+          "ruleId": "no-case-declarations",
+          "message": "Unexpected lexical declaration in case block.",
+          "severity": 2,
+          "hash": "7e4927c151a644f8f48b62c493528fd88553d5b12738611fd7401a0bd3177a02"
+        }
+      ]
+    },
+    "modules/save/src/DatabaseManager.ts:39:17-39:30": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/ban-ts-comment",
+          "message": "Use \"@ts-expect-error\" instead of \"@ts-ignore\", as \"@ts-ignore\" will do nothing if the following line is error-free.",
+          "severity": 2,
+          "hash": "2fcfdd2ef03f056a2a34212f08ccfb4f05074990e8fd22f3a524a433cb3b0aa8"
+        }
+      ]
+    },
+    "modules/save/src/DatabaseManager.ts:40:17-40:57": {
+      "errors": [
+        {
+          "ruleId": "no-case-declarations",
+          "message": "Unexpected lexical declaration in case block.",
+          "severity": 2,
+          "hash": "24148af3fc6f3e4ed5d6296d675e182c9cb2f45421827fb5d8f1428482dce043"
+        }
+      ]
+    },
+    "modules/save/src/DatabaseManager.ts:44:17-44:30": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/ban-ts-comment",
+          "message": "Use \"@ts-expect-error\" instead of \"@ts-ignore\", as \"@ts-ignore\" will do nothing if the following line is error-free.",
+          "severity": 2,
+          "hash": "2fcfdd2ef03f056a2a34212f08ccfb4f05074990e8fd22f3a524a433cb3b0aa8"
+        }
+      ]
+    },
+    "modules/save/src/DatabaseManager.ts:45:17-45:57": {
+      "errors": [
+        {
+          "ruleId": "no-case-declarations",
+          "message": "Unexpected lexical declaration in case block.",
+          "severity": 2,
+          "hash": "ef3dc45852013a3a6792b1db6812b5aa81277182c78d9ba32481d69920e8ebec"
+        }
+      ]
+    },
+    "modules/skills/src/handlers/EnergyOfTheCometSkillHandler.ts:7:68-7:71": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/no-explicit-any",
+          "message": "Unexpected any. Specify a different type.",
+          "severity": 2,
+          "hash": "d6a7cd2a7371b1a15d543196979ff74fdb027023ebf187d5d329be11055c77fd"
+        }
+      ]
+    },
+    "modules/skills/src/handlers/IceSpikesSkillHandler.ts:8:67-8:70": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/no-explicit-any",
+          "message": "Unexpected any. Specify a different type.",
+          "severity": 2,
+          "hash": "d6a7cd2a7371b1a15d543196979ff74fdb027023ebf187d5d329be11055c77fd"
+        }
+      ]
+    },
+    "modules/skills/src/handlers/ThrowFreezingSkillHandler.ts:16:68-16:71": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/no-explicit-any",
+          "message": "Unexpected any. Specify a different type.",
+          "severity": 2,
+          "hash": "d6a7cd2a7371b1a15d543196979ff74fdb027023ebf187d5d329be11055c77fd"
+        }
+      ]
+    },
+    "modules/skills/src/handlers/ThrowFreezingSkillHandler.ts:45:92-45:95": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/no-explicit-any",
+          "message": "Unexpected any. Specify a different type.",
+          "severity": 2,
+          "hash": "d6a7cd2a7371b1a15d543196979ff74fdb027023ebf187d5d329be11055c77fd"
+        }
+      ]
+    },
+    "modules/title-screen/src/server/mmorpg/index.ts:26:11-26:14": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/no-explicit-any",
+          "message": "Unexpected any. Specify a different type.",
+          "severity": 2,
+          "hash": "d6a7cd2a7371b1a15d543196979ff74fdb027023ebf187d5d329be11055c77fd"
+        }
+      ]
+    },
+    "modules/title-screen/src/server/mmorpg/index.ts:69:49-69:53": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/no-unused-vars",
+          "message": "'next' is defined but never used.",
+          "severity": 2,
+          "hash": "c6c1c9a9c8543f1e4cd980064cf1625eeb61a90703b2464fff039f21682508b3"
+        }
+      ]
+    },
+    "modules/title-screen/src/server/mmorpg/index.ts:74:29-74:32": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/no-explicit-any",
+          "message": "Unexpected any. Specify a different type.",
+          "severity": 2,
+          "hash": "d6a7cd2a7371b1a15d543196979ff74fdb027023ebf187d5d329be11055c77fd"
+        }
+      ]
+    },
+    "modules/title-screen/src/server/mmorpg/index.ts:78:55-78:59": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/no-unused-vars",
+          "message": "'next' is defined but never used.",
+          "severity": 2,
+          "hash": "c6c1c9a9c8543f1e4cd980064cf1625eeb61a90703b2464fff039f21682508b3"
+        }
+      ]
+    },
+    "modules/title-screen/src/server/mmorpg/index.ts:83:27-83:30": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/no-explicit-any",
+          "message": "Unexpected any. Specify a different type.",
+          "severity": 2,
+          "hash": "d6a7cd2a7371b1a15d543196979ff74fdb027023ebf187d5d329be11055c77fd"
+        }
+      ]
+    },
+    "modules/title-screen/src/server/mmorpg/index.ts:92:55-92:59": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/no-unused-vars",
+          "message": "'next' is defined but never used.",
+          "severity": 2,
+          "hash": "c6c1c9a9c8543f1e4cd980064cf1625eeb61a90703b2464fff039f21682508b3"
+        }
+      ]
+    },
+    "modules/title-screen/src/server/mmorpg/index.ts:156:29-156:32": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/no-explicit-any",
+          "message": "Unexpected any. Specify a different type.",
+          "severity": 2,
+          "hash": "d6a7cd2a7371b1a15d543196979ff74fdb027023ebf187d5d329be11055c77fd"
+        }
+      ]
+    },
+    "modules/unit-information/client/src/Gui.ts:5:26-5:29": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/no-explicit-any",
+          "message": "Unexpected any. Specify a different type.",
+          "severity": 2,
+          "hash": "d6a7cd2a7371b1a15d543196979ff74fdb027023ebf187d5d329be11055c77fd"
+        }
+      ]
+    },
+    "modules/unit-information/client/src/Gui.ts:6:20-6:23": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/no-explicit-any",
+          "message": "Unexpected any. Specify a different type.",
+          "severity": 2,
+          "hash": "d6a7cd2a7371b1a15d543196979ff74fdb027023ebf187d5d329be11055c77fd"
+        }
+      ]
+    },
+    "modules/upgrading-items/client/index.ts:5:1-5:18": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/ban-ts-comment",
+          "message": "Use \"@ts-expect-error\" instead of \"@ts-ignore\", as \"@ts-ignore\" will do nothing if the following line is error-free.",
+          "severity": 2,
+          "hash": "d62a3f462fd4a05023bd601dd9a6a20cc08b7da8407293cec6586506dc0f90c6"
+        }
+      ]
+    },
+    "modules/upgrading-items/client/scene-map.ts:4:20-4:38": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/no-unused-vars",
+          "message": "'scene' is defined but never used.",
+          "severity": 2,
+          "hash": "d26c808ec3b77d192b954525902c5af3aa82f1936f58f895c3059551e9ef4fd5"
+        }
+      ]
+    },
+    "modules/upgrading-items/index.ts:1:1-1:18": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/ban-ts-comment",
+          "message": "Use \"@ts-expect-error\" instead of \"@ts-ignore\", as \"@ts-ignore\" will do nothing if the following line is error-free.",
+          "severity": 2,
+          "hash": "d62a3f462fd4a05023bd601dd9a6a20cc08b7da8407293cec6586506dc0f90c6"
+        }
+      ]
+    },
+    "modules/upgrading-items/index.ts:3:1-3:18": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/ban-ts-comment",
+          "message": "Use \"@ts-expect-error\" instead of \"@ts-ignore\", as \"@ts-ignore\" will do nothing if the following line is error-free.",
+          "severity": 2,
+          "hash": "d62a3f462fd4a05023bd601dd9a6a20cc08b7da8407293cec6586506dc0f90c6"
+        }
+      ]
+    },
+    "modules/upgrading-items/server/index.ts:4:1-4:18": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/ban-ts-comment",
+          "message": "Use \"@ts-expect-error\" instead of \"@ts-ignore\", as \"@ts-ignore\" will do nothing if the following line is error-free.",
+          "severity": 2,
+          "hash": "d62a3f462fd4a05023bd601dd9a6a20cc08b7da8407293cec6586506dc0f90c6"
+        }
+      ]
+    },
+    "modules/upgrading-items/server/src/ItemUpgrader.ts:6:31-6:41": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/no-unused-vars",
+          "message": "'ItemEntity' is defined but never used.",
+          "severity": 2,
+          "hash": "17de1ec7b059e946b0aa1bcdda9b2b20bd008eecbe4752d68a1a86d87d76274c"
+        }
+      ]
+    },
+    "modules/upgrading-items/server/src/UpgradingItemManager.ts:3:18-3:38": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/no-unsafe-declaration-merging",
+          "message": "Unsafe declaration merging between classes and interfaces.",
+          "severity": 2,
+          "hash": "c36f60cc68eadf09994639875dc903f2fc98eb8e617feedb11d0f88a8c19dfc1"
+        }
+      ]
+    },
+    "modules/upgrading-items/server/src/UpgradingItemManager.ts:9:14-9:34": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/no-unsafe-declaration-merging",
+          "message": "Unsafe declaration merging between classes and interfaces.",
+          "severity": 2,
+          "hash": "c36f60cc68eadf09994639875dc903f2fc98eb8e617feedb11d0f88a8c19dfc1"
+        }
+      ]
+    },
+    "src/combat/CombatReaction.ts:10:18-10:21": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/no-explicit-any",
+          "message": "Unexpected any. Specify a different type.",
+          "severity": 2,
+          "hash": "d6a7cd2a7371b1a15d543196979ff74fdb027023ebf187d5d329be11055c77fd"
+        }
+      ]
+    },
+    "src/combat/CombatReaction.ts:10:26-10:29": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/no-explicit-any",
+          "message": "Unexpected any. Specify a different type.",
+          "severity": 2,
+          "hash": "d6a7cd2a7371b1a15d543196979ff74fdb027023ebf187d5d329be11055c77fd"
+        }
+      ]
+    },
+    "src/combat/CombatReaction.ts:14:68-14:71": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/no-explicit-any",
+          "message": "Unexpected any. Specify a different type.",
+          "severity": 2,
+          "hash": "d6a7cd2a7371b1a15d543196979ff74fdb027023ebf187d5d329be11055c77fd"
+        }
+      ]
+    },
+    "src/combat/attacks/RangeMouseDirectionAttack.ts:10:12-10:15": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/no-explicit-any",
+          "message": "Unexpected any. Specify a different type.",
+          "severity": 2,
+          "hash": "d6a7cd2a7371b1a15d543196979ff74fdb027023ebf187d5d329be11055c77fd"
+        }
+      ]
+    },
+    "src/combat/attacks/SequenceAttack.ts:12:12-12:15": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/no-explicit-any",
+          "message": "Unexpected any. Specify a different type.",
+          "severity": 2,
+          "hash": "d6a7cd2a7371b1a15d543196979ff74fdb027023ebf187d5d329be11055c77fd"
+        }
+      ]
+    },
+    "src/combat/hitbox/MovingHitboxFactory.ts:1:21-1:37": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/no-unused-vars",
+          "message": "'ShapePositioning' is defined but never used.",
+          "severity": 2,
+          "hash": "5631e39bd1b022dc1f5c50266fb87ef1cfe681052fdd415db1843538efdbbf42"
+        }
+      ]
+    },
+    "src/combat/hitbox/MovingHitboxFactory.ts:2:29-2:37": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/no-unused-vars",
+          "message": "'Position' is defined but never used.",
+          "severity": 2,
+          "hash": "6d031af10da7a25e554bb21247f28f0e6cef77f1471175199e7fcc571964dc3d"
+        }
+      ]
+    },
+    "src/combat/hitbox/MovingHitboxFactory.ts:25:62-25:81": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/no-unused-vars",
+          "message": "'offset' is defined but never used.",
+          "severity": 2,
+          "hash": "7e380099039a3a193037c1577bf38c9147b6d1c86bbeb570e5e1dea69202d806"
+        }
+      ]
+    },
+    "src/combat/hitbox/MovingHitboxFactory.ts:120:9-120:45": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/no-unused-vars",
+          "message": "'positioning' is defined but never used.",
+          "severity": 2,
+          "hash": "5ca072c24809743f764501fa1d64a7cf78b5d2a7a1c185f279b654888007bdee"
+        }
+      ]
+    },
+    "src/combat/hitbox/MovingHitboxFactory.ts:121:9-121:28": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/no-unused-vars",
+          "message": "'offset' is defined but never used.",
+          "severity": 2,
+          "hash": "7e380099039a3a193037c1577bf38c9147b6d1c86bbeb570e5e1dea69202d806"
+        }
+      ]
+    },
+    "src/combat/hitbox/MovingHitboxFactory.ts:126:9-126:33": {
+      "errors": [
+        {
+          "ruleId": "no-var",
+          "message": "Unexpected var, use let or const instead.",
+          "severity": 2,
+          "hash": "94f675572a6224c5fdabfd2237545438bdfdaecaa4940956a2476358a6c3308e"
+        }
+      ]
+    },
+    "src/combat/hitbox/MovingHitboxFactory.ts:141:9-141:45": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/no-unused-vars",
+          "message": "'positioning' is defined but never used.",
+          "severity": 2,
+          "hash": "5ca072c24809743f764501fa1d64a7cf78b5d2a7a1c185f279b654888007bdee"
+        }
+      ]
+    },
+    "src/combat/hitbox/MovingHitboxFactory.ts:142:9-142:28": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/no-unused-vars",
+          "message": "'offset' is defined but never used.",
+          "severity": 2,
+          "hash": "7e380099039a3a193037c1577bf38c9147b6d1c86bbeb570e5e1dea69202d806"
+        }
+      ]
+    },
+    "src/combat/hitbox/SquareAOEHitbox.ts:38:9-38:26": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/ban-ts-comment",
+          "message": "Use \"@ts-expect-error\" instead of \"@ts-ignore\", as \"@ts-ignore\" will do nothing if the following line is error-free.",
+          "severity": 2,
+          "hash": "d62a3f462fd4a05023bd601dd9a6a20cc08b7da8407293cec6586506dc0f90c6"
+        }
+      ]
+    },
+    "src/combat/service/OnHitEffects.ts:7:58-7:61": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/no-explicit-any",
+          "message": "Unexpected any. Specify a different type.",
+          "severity": 2,
+          "hash": "d6a7cd2a7371b1a15d543196979ff74fdb027023ebf187d5d329be11055c77fd"
+        }
+      ]
+    },
+    "src/combat/service/OnHitEffects.ts:18:25-19:14": {
+      "errors": [
+        {
+          "ruleId": "no-empty",
+          "message": "Empty block statement.",
+          "severity": 2,
+          "hash": "015846f4788af0ff34766e41c338212e5120ff0fef86d0cb5bb31f3423abed63"
+        }
+      ]
+    },
+    "src/enemies/attacks/GuidedAttack.ts:38:25-38:28": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/no-explicit-any",
+          "message": "Unexpected any. Specify a different type.",
+          "severity": 2,
+          "hash": "d6a7cd2a7371b1a15d543196979ff74fdb027023ebf187d5d329be11055c77fd"
+        }
+      ]
+    },
+    "src/enemies/attacks/GuidedAttack.ts:43:41-43:48": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/no-unused-vars",
+          "message": "'eventId' is defined but never used.",
+          "severity": 2,
+          "hash": "5e0e63b4ae404cad8d31ab19a5622e4cdb4bb93eacc82d2b66dd0dc4e94786f7"
+        }
+      ]
+    },
+    "src/enemies/attacks/PhysicalAttack.ts:1:16-1:24": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/no-unused-vars",
+          "message": "'RpgEvent' is defined but never used.",
+          "severity": 2,
+          "hash": "9a46a88a82e382c328b0729e82bfa70c72e27b70f086794499d0b619a58e590f"
+        }
+      ]
+    },
+    "src/enemies/attacks/PhysicalAttack.ts:4:10-4:21": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/no-unused-vars",
+          "message": "'KillableMob' is defined but never used.",
+          "severity": 2,
+          "hash": "99a15be319e1fd9e393f8ad392bcc7b9490ec97acac2f5376f3a55a8eee4458d"
+        }
+      ]
+    },
+    "src/enemies/mobs/KillableMob.ts:11:14-11:25": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/no-unsafe-declaration-merging",
+          "message": "Unsafe declaration merging between classes and interfaces.",
+          "severity": 2,
+          "hash": "99a15be319e1fd9e393f8ad392bcc7b9490ec97acac2f5376f3a55a8eee4458d"
+        }
+      ]
+    },
+    "src/enemies/mobs/KillableMob.ts:22:6-22:7": {
+      "errors": [
+        {
+          "ruleId": "no-extra-semi",
+          "message": "Unnecessary semicolon.",
+          "severity": 2,
+          "hash": "41b805ea7ac014e23556e98bb374702a08344268f92489a02f0880849394a1e4"
+        }
+      ]
+    },
+    "src/enemies/mobs/KillableMob.ts:74:18-74:29": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/no-unsafe-declaration-merging",
+          "message": "Unsafe declaration merging between classes and interfaces.",
+          "severity": 2,
+          "hash": "99a15be319e1fd9e393f8ad392bcc7b9490ec97acac2f5376f3a55a8eee4458d"
+        }
+      ]
+    },
+    "src/graphics/DeathAnimation.ts:17:13-17:30": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/ban-ts-comment",
+          "message": "Use \"@ts-expect-error\" instead of \"@ts-ignore\", as \"@ts-ignore\" will do nothing if the following line is error-free.",
+          "severity": 2,
+          "hash": "d62a3f462fd4a05023bd601dd9a6a20cc08b7da8407293cec6586506dc0f90c6"
+        }
+      ]
+    },
+    "src/graphics/GraphicSchemas.ts:2:17-2:23": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/ban-types",
+          "message": "Don't use `String` as a type. Use string instead",
+          "severity": 2,
+          "hash": "b2ef230e7f4f315a28cdcc863028da31f7110f3209feb76e76fed0f37b3d8580"
+        }
+      ]
+    },
+    "src/graphics/PlayerGraphics.ts:20:9-20:26": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/ban-ts-comment",
+          "message": "Use \"@ts-expect-error\" instead of \"@ts-ignore\", as \"@ts-ignore\" will do nothing if the following line is error-free.",
+          "severity": 2,
+          "hash": "d62a3f462fd4a05023bd601dd9a6a20cc08b7da8407293cec6586506dc0f90c6"
+        }
+      ]
+    },
+    "src/graphics/PlayerGraphics.ts:23:13-23:47": {
+      "errors": [
+        {
+          "ruleId": "prefer-const",
+          "message": "'equippedGraphics' is never reassigned. Use 'const' instead.",
+          "severity": 2,
+          "hash": "37eadcca461373c172b933a266e06144a65356fc29be1c66f1fa35f842ccf94d"
+        }
+      ]
+    },
+    "src/heroes/decorators/Class.ts:10:56-10:59": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/no-explicit-any",
+          "message": "Unexpected any. Specify a different type.",
+          "severity": 2,
+          "hash": "d6a7cd2a7371b1a15d543196979ff74fdb027023ebf187d5d329be11055c77fd"
+        }
+      ]
+    },
+    "src/heroes/decorators/Class.ts:10:74-10:77": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/no-explicit-any",
+          "message": "Unexpected any. Specify a different type.",
+          "severity": 2,
+          "hash": "d6a7cd2a7371b1a15d543196979ff74fdb027023ebf187d5d329be11055c77fd"
+        }
+      ]
+    },
+    "src/heroes/decorators/Class.ts:11:30-11:33": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/no-explicit-any",
+          "message": "Unexpected any. Specify a different type.",
+          "severity": 2,
+          "hash": "d6a7cd2a7371b1a15d543196979ff74fdb027023ebf187d5d329be11055c77fd"
+        }
+      ]
+    },
+    "src/shared/utils/Utils.ts:1:30-1:33": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/no-explicit-any",
+          "message": "Unexpected any. Specify a different type.",
+          "severity": 2,
+          "hash": "d6a7cd2a7371b1a15d543196979ff74fdb027023ebf187d5d329be11055c77fd"
+        }
+      ]
+    },
+    "src/shared/utils/Utils.ts:1:45-1:47": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/ban-types",
+          "message": "Don't use `{}` as a type. `{}` actually means \"any non-nullish value\".\n- If you want a type meaning \"any object\", you probably want `object` instead.\n- If you want a type meaning \"any value\", you probably want `unknown` instead.\n- If you want a type meaning \"empty object\", you probably want `Record<string, never>` instead.\n- If you really want a type meaning \"any non-nullish value\", you probably want `NonNullable<unknown>` instead.",
+          "severity": 2,
+          "hash": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+        }
+      ]
+    },
+    "src/shared/utils/Utils.ts:3:33-3:36": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/no-explicit-any",
+          "message": "Unexpected any. Specify a different type.",
+          "severity": 2,
+          "hash": "d6a7cd2a7371b1a15d543196979ff74fdb027023ebf187d5d329be11055c77fd"
+        }
+      ]
+    },
+    "src/shared/utils/spritesheets/LPCAttackPreset.ts:15:22-15:25": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/no-explicit-any",
+          "message": "Unexpected any. Specify a different type.",
+          "severity": 2,
+          "hash": "d6a7cd2a7371b1a15d543196979ff74fdb027023ebf187d5d329be11055c77fd"
+        }
+      ]
+    },
+    "src/shared/utils/spritesheets/LPCPreset.ts:17:22-17:25": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/no-explicit-any",
+          "message": "Unexpected any. Specify a different type.",
+          "severity": 2,
+          "hash": "d6a7cd2a7371b1a15d543196979ff74fdb027023ebf187d5d329be11055c77fd"
+        }
+      ]
+    },
+    "src/shared/utils/spritesheets/SequenceAnimationPreset.ts:5:22-5:25": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/no-explicit-any",
+          "message": "Unexpected any. Specify a different type.",
+          "severity": 2,
+          "hash": "d6a7cd2a7371b1a15d543196979ff74fdb027023ebf187d5d329be11055c77fd"
+        }
+      ]
+    },
+    "src/shared/utils/spritesheets/SpritesheetPresets.ts:16:9-16:93": {
+      "errors": [
+        {
+          "ruleId": "no-var",
+          "message": "Unexpected var, use let or const instead.",
+          "severity": 2,
+          "hash": "7d0522247b5d2e1e1ff892bceef748669e13108bad8794ea4e633f320e4f4ba6"
+        }
+      ]
+    },
+    "src/skills/decorators/Skill.ts:7:62-7:65": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/no-explicit-any",
+          "message": "Unexpected any. Specify a different type.",
+          "severity": 2,
+          "hash": "d6a7cd2a7371b1a15d543196979ff74fdb027023ebf187d5d329be11055c77fd"
+        }
+      ]
+    },
+    "src/skills/decorators/Skill.ts:11:12-11:15": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/no-explicit-any",
+          "message": "Unexpected any. Specify a different type.",
+          "severity": 2,
+          "hash": "d6a7cd2a7371b1a15d543196979ff74fdb027023ebf187d5d329be11055c77fd"
+        }
+      ]
+    },
+    "src/skills/decorators/Skill.ts:22:56-22:59": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/no-explicit-any",
+          "message": "Unexpected any. Specify a different type.",
+          "severity": 2,
+          "hash": "d6a7cd2a7371b1a15d543196979ff74fdb027023ebf187d5d329be11055c77fd"
+        }
+      ]
+    },
+    "src/skills/decorators/Skill.ts:22:74-22:77": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/no-explicit-any",
+          "message": "Unexpected any. Specify a different type.",
+          "severity": 2,
+          "hash": "d6a7cd2a7371b1a15d543196979ff74fdb027023ebf187d5d329be11055c77fd"
+        }
+      ]
+    },
+    "src/skills/decorators/Skill.ts:23:30-23:33": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/no-explicit-any",
+          "message": "Unexpected any. Specify a different type.",
+          "severity": 2,
+          "hash": "d6a7cd2a7371b1a15d543196979ff74fdb027023ebf187d5d329be11055c77fd"
+        }
+      ]
+    },
+    "src/spawn/NPCSpawner.ts:28:15-28:21": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/no-unused-vars",
+          "message": "'events' is assigned a value but never used.",
+          "severity": 2,
+          "hash": "862417b9e7c3720bcb3263cd873b09892d787823b6f9a0f453e42824c5a4d4b6"
+        }
+      ]
+    },
+    "src/spawn/Spawner.ts:80:30-80:37": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/no-unused-vars",
+          "message": "'eventId' is defined but never used.",
+          "severity": 2,
+          "hash": "5e0e63b4ae404cad8d31ab19a5622e4cdb4bb93eacc82d2b66dd0dc4e94786f7"
+        }
+      ]
+    },
+    "src/spawn/Spawner.ts:95:9-95:36": {
+      "errors": [
+        {
+          "ruleId": "no-var",
+          "message": "Unexpected var, use let or const instead.",
+          "severity": 2,
+          "hash": "1cde853ab1e036f9818c75f34bfd471502ebd361a28b68563acf65f4085823c8"
+        }
+      ]
+    },
+    "tests/unit-tests/specs/beforeEach.ts:6:1-6:18": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/ban-ts-comment",
+          "message": "Use \"@ts-expect-error\" instead of \"@ts-ignore\", as \"@ts-ignore\" will do nothing if the following line is error-free.",
+          "severity": 2,
+          "hash": "d62a3f462fd4a05023bd601dd9a6a20cc08b7da8407293cec6586506dc0f90c6"
+        }
+      ]
+    },
+    "tests/unit-tests/specs/beforeEach.ts:12:1-12:18": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/ban-ts-comment",
+          "message": "Use \"@ts-expect-error\" instead of \"@ts-ignore\", as \"@ts-ignore\" will do nothing if the following line is error-free.",
+          "severity": 2,
+          "hash": "d62a3f462fd4a05023bd601dd9a6a20cc08b7da8407293cec6586506dc0f90c6"
+        }
+      ]
+    },
+    "tests/unit-tests/specs/beforeEach.ts:25:27-25:30": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/no-explicit-any",
+          "message": "Unexpected any. Specify a different type.",
+          "severity": 2,
+          "hash": "d6a7cd2a7371b1a15d543196979ff74fdb027023ebf187d5d329be11055c77fd"
+        }
+      ]
+    },
+    "tests/unit-tests/specs/beforeEach.ts:25:49-25:52": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/no-explicit-any",
+          "message": "Unexpected any. Specify a different type.",
+          "severity": 2,
+          "hash": "d6a7cd2a7371b1a15d543196979ff74fdb027023ebf187d5d329be11055c77fd"
+        }
+      ]
+    },
+    "tests/unit-tests/specs/beforeEach.ts:25:74-25:77": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/no-explicit-any",
+          "message": "Unexpected any. Specify a different type.",
+          "severity": 2,
+          "hash": "d6a7cd2a7371b1a15d543196979ff74fdb027023ebf187d5d329be11055c77fd"
+        }
+      ]
+    },
+    "tests/unit-tests/specs/beforeEach.ts:25:99-25:102": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/no-explicit-any",
+          "message": "Unexpected any. Specify a different type.",
+          "severity": 2,
+          "hash": "d6a7cd2a7371b1a15d543196979ff74fdb027023ebf187d5d329be11055c77fd"
+        }
+      ]
+    },
+    "tests/unit-tests/specs/fixtures/skills.ts:3:1-3:14": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/ban-ts-comment",
+          "message": "Use \"@ts-expect-error\" instead of \"@ts-ignore\", as \"@ts-ignore\" will do nothing if the following line is error-free.",
+          "severity": 2,
+          "hash": "2fcfdd2ef03f056a2a34212f08ccfb4f05074990e8fd22f3a524a433cb3b0aa8"
+        }
+      ]
+    },
+    "tests/unit-tests/specs/fixtures/skills.ts:17:1-17:14": {
+      "errors": [
+        {
+          "ruleId": "@typescript-eslint/ban-ts-comment",
+          "message": "Use \"@ts-expect-error\" instead of \"@ts-ignore\", as \"@ts-ignore\" will do nothing if the following line is error-free.",
+          "severity": 2,
+          "hash": "2fcfdd2ef03f056a2a34212f08ccfb4f05074990e8fd22f3a524a433cb3b0aa8"
+        }
+      ]
+    }
+  }
+}

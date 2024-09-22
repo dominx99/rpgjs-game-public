@@ -1,0 +1,61 @@
+{
+    "name": "my-game",
+    "scripts": {
+        "build": "rpgjs build",
+        "dev": "NODE_OPTIONS='--inspect' rpgjs dev",
+        "start": "node dist/server/main.mjs",
+        "test": "RPGJS_TEST=1 npx vitest --config node_modules/@rpgjs/compiler/src/test/vitest.config.ts",
+        "lint": "eslint-baseline .",
+        "lint:update-baseline": "eslint-baseline --update-baseline ."
+    },
+    "engines": {
+        "node": ">=18"
+    },
+    "dependencies": {
+        "@pixi/filter-color-overlay": "^5.1.1",
+        "@reactuses/core": "^4.0.10",
+        "@rpgjs/chat": "4.2.1",
+        "@rpgjs/client": "4.2.1",
+        "@rpgjs/default-gui": "4.2.1",
+        "@rpgjs/gamepad": "4.2.1",
+        "@rpgjs/mobile-gui": "4.2.1",
+        "@rpgjs/server": "4.2.1",
+        "@rpgjs/standalone": "4.2.1",
+        "@rpgjs/title-screen": "4.2.1",
+        "@rpgjs/types": "4.0.5",
+        "@types/react": "^18.2.33",
+        "@types/react-dom": "^18.2.14",
+        "@types/sat": "^0.0.32",
+        "@types/uuid": "^9.0.2",
+        "axios": "^1.5.0",
+        "body-parser": "^1.20.2",
+        "mongoose": "^7.5.0",
+        "mongoose-bcrypt": "^1.10.1",
+        "object-hash": "^3.0.0",
+        "react": "^18.2.0",
+        "react-dnd": "^16.0.1",
+        "react-dnd-html5-backend": "^16.0.1",
+        "react-dom": "^18.2.0",
+        "react-tooltip": "^5.21.6",
+        "rpgjs-character-select": "^1.1.2",
+        "rpgjs-inventory": "^1.0.6",
+        "rxjs": "^7.8.1",
+        "sat": "^0.9.0",
+        "socket.io-client": "4.6.1",
+        "styled-components": "^6.1.0",
+        "uuid": "^9.0.0"
+    },
+    "devDependencies": {
+        "@rpgjs/compiler": "4.2.1",
+        "@rpgjs/testing": "4.2.1",
+        "@typescript-eslint/eslint-plugin": "^6.13.1",
+        "@typescript-eslint/parser": "^6.13.1",
+        "canvas": "^2.11.2",
+        "eslint": "^8.55.0",
+        "eslint-baseline": "^0.4.0",
+        "eslint-plugin-react": "^7.33.2",
+        "jsdom": "^22.1.0",
+        "typescript": "^5.0.4",
+        "vitest": "^0.34.6"
+    }
+}

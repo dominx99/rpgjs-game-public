@@ -1,0 +1,3 @@
+interface ActionCooldown {
+    cooldown?: number;
+}

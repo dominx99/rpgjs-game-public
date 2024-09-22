@@ -1,0 +1,191 @@
+name = 'My Game'
+
+modules = [
+    './modules/dummy-auth',
+    # 'rpgjs-character-select',
+    # './modules/character-select-extension',
+    # './modules/title-screen',
+    './modules/gui',
+    './modules/move',
+    './modules/actions',
+    './modules/effects',
+    './modules/items',
+    './modules/save',
+    './modules/config',
+    './modules/chat',
+    './modules/enemies',
+    './modules/heroes',
+    './modules/combat',
+    './modules/action-bar',
+    './modules/skills',
+    'rpgjs-inventory',
+    './modules/inventory-extension',
+    './modules/upgrading-items',
+    './modules/maps',
+    './modules/profile',
+    './modules/cooldowns',
+    './modules/spritesheets',
+    './modules/unit-information',
+    './modules/popping-numbers',
+    './modules/common',
+    '@rpgjs/default-gui',
+]
+
+spritesheetDirectories = [
+    'vaporization-64x64',
+    'animations/level-up',
+    'animations/skills/aquamarine',
+    'animations/skills/fire-superslash',
+    'animations/skills/green-ball-explosion',
+    'animations/skills/moving-ball',
+    'animations/skills/moving-green-fire',
+    'animations/skills/throw-freezing',
+    'animations/skills/ice-spikes',
+    'bullets/arrow',
+    'bullets/skills',
+    'lpc/armor/legs/',
+    'lpc/armor/torso',
+    'lpc/attacks',
+    'lpc/bodies',
+    'lpc/ears',
+    'lpc/nose',
+    'lpc/tails',
+    'lpc/heads',
+    'lpc/hair',
+    'lpc/accessories',
+    'lpc/weapons/range',
+    'lpc/weapons/arrow',
+    'bullets/arrow',
+    'mobs',
+    'icons-180x150',
+    'icons-192x96',
+    'icons-64x64',
+    'icons-96x112',
+    'icons-32x32/armor/plate',
+    'icons-32x32/armor/shields',
+    'icons-32x32/consumable/potions',
+    'icons-32x32/utils',
+    'icons-32x32/weapons',
+    'mobs/flying-eye',
+    'mobs/purple-magician',
+    'mobs/desert-golem',
+    'mobs/cave-creatures',
+    'vaporization-sprites-64x64',
+    'npcs/blacksmith',
+]
+
+[compilerOptions.build]
+  serverUrl = "$ENV:VITE_SERVER_URL"
+
+[start]
+    map = 'grass-land43'
+    hitbox = [32, 32]
+
+[inputs.up]
+    name = "up"
+    repeat = true
+    bind = "w"
+
+[inputs.down]
+    name = "down"
+    repeat = true
+    bind = "s"
+
+[inputs.right]
+    name = "right"
+    repeat = true
+    bind = "d"
+
+[inputs.left]
+    name = "left"
+    repeat = true
+    bind = "a"
+
+[inputs.pickUp]
+    name = "pickUp"
+    repeat = false
+    bind = "z"
+    delay = { duration = 250 }
+
+[inputs.inventory]
+    name = "inentory"
+    repeat = false
+    bind = "i"
+
+[inputs.chat]
+    name = "chat"
+    repeat = false
+    bind = "t"
+
+[inputs.skills]
+    name = "skills"
+    repeat = false
+    bind = "v"
+
+[inputs.skill1]
+    name = "skill1"
+    repeat = false
+    bind = "j"
+
+[inputs.skill2]
+    name = "skill2"
+    repeat = false
+    bind = "k"
+
+[inputs.key1]
+    repeat = false
+    bind = "n1"
+
+[inputs.key2]
+    repeat = false
+    bind = "n2"
+
+[inputs.key3]
+    repeat = false
+    bind = "n3"
+
+[inputs.key4]
+    repeat = false
+    bind = "n4"
+
+[inputs.key5]
+    repeat = false
+    bind = "n5"
+
+[inputs.key6]
+    repeat = false
+    bind = "n6"
+
+[inputs.key7]
+    repeat = false
+    bind = "n7"
+
+[inputs.action]
+    name = "action"
+    bind = ["enter"]
+
+[inputs.attack]
+    name = "attack"
+    repeat = true
+    bind = ["space"]
+    delay = { duration = 200 }
+
+[titleScreen]
+    mongodb = "$ENV:VITE_MONGODB_URL"
+
+[express]
+  static = ''
+  port = 3000
+
+[characterSelect]
+  gui = 'character-select-gui'
+  actors = [
+    'warewolfactor',
+    'elfactor',
+    'humanactor',
+    'vampireactor',
+    'lizardactor',
+    'goblinactor',
+    'orcactor',
+    'trollactor',
+  ]
